@@ -1,0 +1,12 @@
+[project]
+name = "earthscape-vercel"
+version = "1.0.0"
+requires-python = ">=3.12,<3.13"
+description = "EarthScape portfolio API with Supabase persistence"
+dependencies = [
+  "numpy==2.2.6",
+  "scipy==1.15.3",
+  "scikit-learn==1.7.2",
+  "cryptography==46.0.3",
+  "Pillow==11.3.0",
+]

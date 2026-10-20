@@ -1,0 +1,5762 @@
+[
+  {
+    "day": "2026-01-01",
+    "station": "Karachi",
+    "temperature": 28.83,
+    "rainfall": 2.96,
+    "co2": 419.78,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-01",
+    "station": "Lahore",
+    "temperature": 25.84,
+    "rainfall": 3.23,
+    "co2": 417.01,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-01",
+    "station": "Islamabad",
+    "temperature": 21.4,
+    "rainfall": 2.4,
+    "co2": 419.57,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-01",
+    "station": "Quetta",
+    "temperature": 17.14,
+    "rainfall": 5.39,
+    "co2": 422.33,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-02",
+    "station": "Karachi",
+    "temperature": 30.01,
+    "rainfall": 4.66,
+    "co2": 418.55,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-02",
+    "station": "Lahore",
+    "temperature": 24.01,
+    "rainfall": null,
+    "co2": 422.65,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-02",
+    "station": "Islamabad",
+    "temperature": 21.27,
+    "rainfall": 3.36,
+    "co2": 421.09,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-02",
+    "station": "Quetta",
+    "temperature": 15.48,
+    "rainfall": 2.13,
+    "co2": 421.01,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-03",
+    "station": "Karachi",
+    "temperature": 30.5,
+    "rainfall": 2.56,
+    "co2": 420.8,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-03",
+    "station": "Lahore",
+    "temperature": 25.75,
+    "rainfall": 8.69,
+    "co2": 417.82,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-03",
+    "station": "Islamabad",
+    "temperature": 22.13,
+    "rainfall": 0,
+    "co2": 414.81,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-03",
+    "station": "Quetta",
+    "temperature": 16.72,
+    "rainfall": 0,
+    "co2": 421.8,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-04",
+    "station": "Karachi",
+    "temperature": 30.47,
+    "rainfall": 0,
+    "co2": 421.77,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-04",
+    "station": "Lahore",
+    "temperature": 24.47,
+    "rainfall": 3.48,
+    "co2": 419.49,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-04",
+    "station": "Islamabad",
+    "temperature": 21.81,
+    "rainfall": 8.91,
+    "co2": 421.35,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-04",
+    "station": "Quetta",
+    "temperature": 18.09,
+    "rainfall": 7.9,
+    "co2": 421.03,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-05",
+    "station": "Karachi",
+    "temperature": 29.14,
+    "rainfall": 0,
+    "co2": 419.16,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-05",
+    "station": "Lahore",
+    "temperature": 26.49,
+    "rainfall": 2.5,
+    "co2": 424.77,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-05",
+    "station": "Islamabad",
+    "temperature": 20.91,
+    "rainfall": 0,
+    "co2": 421.64,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-05",
+    "station": "Quetta",
+    "temperature": 19.6,
+    "rainfall": 7.03,
+    "co2": 421.77,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-06",
+    "station": "Karachi",
+    "temperature": 31.83,
+    "rainfall": 3.44,
+    "co2": null,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-06",
+    "station": "Lahore",
+    "temperature": 25.48,
+    "rainfall": 9.72,
+    "co2": 417.24,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-06",
+    "station": "Islamabad",
+    "temperature": 22.15,
+    "rainfall": 5.52,
+    "co2": 419.49,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-06",
+    "station": "Quetta",
+    "temperature": 18.98,
+    "rainfall": 7.48,
+    "co2": 424.77,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-07",
+    "station": "Karachi",
+    "temperature": 31.08,
+    "rainfall": 0.34,
+    "co2": 419.03,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-07",
+    "station": "Lahore",
+    "temperature": 25.33,
+    "rainfall": 9.71,
+    "co2": 419.02,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-07",
+    "station": "Islamabad",
+    "temperature": 22.25,
+    "rainfall": 8.5,
+    "co2": 418.7,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-07",
+    "station": "Quetta",
+    "temperature": 17.98,
+    "rainfall": 0,
+    "co2": 417.99,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-08",
+    "station": "Karachi",
+    "temperature": 29.87,
+    "rainfall": 6.49,
+    "co2": 422.56,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-08",
+    "station": "Lahore",
+    "temperature": 26.52,
+    "rainfall": 5.57,
+    "co2": 420.51,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-08",
+    "station": "Islamabad",
+    "temperature": 23.85,
+    "rainfall": 9.36,
+    "co2": 420.72,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-08",
+    "station": "Quetta",
+    "temperature": 17.33,
+    "rainfall": 9.42,
+    "co2": 420.94,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-09",
+    "station": "Karachi",
+    "temperature": 32.23,
+    "rainfall": 3.82,
+    "co2": 424.11,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-09",
+    "station": "Lahore",
+    "temperature": 26.33,
+    "rainfall": 13.56,
+    "co2": 420.43,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-09",
+    "station": "Islamabad",
+    "temperature": 22.14,
+    "rainfall": 0,
+    "co2": 419.9,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-09",
+    "station": "Quetta",
+    "temperature": 20.47,
+    "rainfall": 8.9,
+    "co2": 421.58,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-10",
+    "station": "Karachi",
+    "temperature": 28.11,
+    "rainfall": 8.27,
+    "co2": 421.34,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-10",
+    "station": "Lahore",
+    "temperature": 26.3,
+    "rainfall": 0.24,
+    "co2": 420.22,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-10",
+    "station": "Islamabad",
+    "temperature": 25.03,
+    "rainfall": 0,
+    "co2": 419.37,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-10",
+    "station": "Quetta",
+    "temperature": 20.6,
+    "rainfall": 1.32,
+    "co2": 419.5,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-11",
+    "station": "Karachi",
+    "temperature": 31.29,
+    "rainfall": 0,
+    "co2": 420.69,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-11",
+    "station": "Lahore",
+    "temperature": 25.72,
+    "rainfall": 9.31,
+    "co2": 420.26,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-11",
+    "station": "Islamabad",
+    "temperature": 25.91,
+    "rainfall": 5.69,
+    "co2": 422.98,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-11",
+    "station": "Quetta",
+    "temperature": 17.6,
+    "rainfall": 3.27,
+    "co2": 420.9,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-12",
+    "station": "Karachi",
+    "temperature": 33.46,
+    "rainfall": 0,
+    "co2": 422.26,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-12",
+    "station": "Lahore",
+    "temperature": 28.08,
+    "rainfall": 13.2,
+    "co2": 421.7,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-12",
+    "station": "Islamabad",
+    "temperature": 23.43,
+    "rainfall": 0.87,
+    "co2": 417.78,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-12",
+    "station": "Quetta",
+    "temperature": 19.6,
+    "rainfall": 2.85,
+    "co2": 424.32,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-13",
+    "station": "Karachi",
+    "temperature": 30.83,
+    "rainfall": 5.92,
+    "co2": 417.16,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-13",
+    "station": "Lahore",
+    "temperature": 27.08,
+    "rainfall": 5.57,
+    "co2": 421.95,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-13",
+    "station": "Islamabad",
+    "temperature": 25.3,
+    "rainfall": 3.74,
+    "co2": 418.07,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-13",
+    "station": "Quetta",
+    "temperature": 20.11,
+    "rainfall": 7.1,
+    "co2": 421.28,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-14",
+    "station": "Karachi",
+    "temperature": 30.91,
+    "rainfall": 10.8,
+    "co2": 420.5,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-14",
+    "station": "Lahore",
+    "temperature": 28.59,
+    "rainfall": 11.64,
+    "co2": 421.54,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-14",
+    "station": "Islamabad",
+    "temperature": 24.09,
+    "rainfall": 16.92,
+    "co2": 420.81,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-14",
+    "station": "Quetta",
+    "temperature": 19.39,
+    "rainfall": 4.67,
+    "co2": 423.29,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-15",
+    "station": "Karachi",
+    "temperature": 32.07,
+    "rainfall": 7.12,
+    "co2": 422.74,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-15",
+    "station": "Lahore",
+    "temperature": 27.31,
+    "rainfall": 0,
+    "co2": 420.95,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-15",
+    "station": "Islamabad",
+    "temperature": 24.2,
+    "rainfall": 0.35,
+    "co2": 422.09,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-15",
+    "station": "Quetta",
+    "temperature": 20.66,
+    "rainfall": 0,
+    "co2": 421.39,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-16",
+    "station": "Karachi",
+    "temperature": 31.87,
+    "rainfall": 0,
+    "co2": 421.28,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-16",
+    "station": "Lahore",
+    "temperature": 28.05,
+    "rainfall": 0,
+    "co2": 421.42,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-16",
+    "station": "Islamabad",
+    "temperature": 24.69,
+    "rainfall": 0.53,
+    "co2": 421.18,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-16",
+    "station": "Quetta",
+    "temperature": 21.32,
+    "rainfall": 0,
+    "co2": 421.14,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-17",
+    "station": "Karachi",
+    "temperature": 32.27,
+    "rainfall": 17.6,
+    "co2": 416.68,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-17",
+    "station": "Lahore",
+    "temperature": 29.1,
+    "rainfall": 2.16,
+    "co2": 420.2,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-17",
+    "station": "Islamabad",
+    "temperature": 26.55,
+    "rainfall": 3.95,
+    "co2": 424.88,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-17",
+    "station": "Quetta",
+    "temperature": 19.74,
+    "rainfall": 6.1,
+    "co2": 419.42,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-18",
+    "station": "Karachi",
+    "temperature": 31.6,
+    "rainfall": 4.37,
+    "co2": 419.86,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-18",
+    "station": "Lahore",
+    "temperature": 28.67,
+    "rainfall": 0,
+    "co2": 424.43,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-18",
+    "station": "Islamabad",
+    "temperature": 24.23,
+    "rainfall": 14.46,
+    "co2": 418.41,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-18",
+    "station": "Quetta",
+    "temperature": 20.78,
+    "rainfall": 22.99,
+    "co2": 418.69,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-19",
+    "station": "Karachi",
+    "temperature": 30.79,
+    "rainfall": 0.72,
+    "co2": 421.39,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-19",
+    "station": "Lahore",
+    "temperature": 29.42,
+    "rainfall": 11.74,
+    "co2": 419.94,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-19",
+    "station": "Islamabad",
+    "temperature": 22.66,
+    "rainfall": 1.39,
+    "co2": 422.93,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-19",
+    "station": "Quetta",
+    "temperature": 21.14,
+    "rainfall": 0,
+    "co2": 420.38,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-20",
+    "station": "Karachi",
+    "temperature": 34.41,
+    "rainfall": 16.76,
+    "co2": 421.6,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-20",
+    "station": "Lahore",
+    "temperature": 29.1,
+    "rainfall": 0,
+    "co2": 418.79,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-20",
+    "station": "Islamabad",
+    "temperature": 24.78,
+    "rainfall": 7.02,
+    "co2": 421.64,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-20",
+    "station": "Quetta",
+    "temperature": 20.15,
+    "rainfall": 0,
+    "co2": 418.92,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-21",
+    "station": "Karachi",
+    "temperature": 31.48,
+    "rainfall": 7.86,
+    "co2": 415.88,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-21",
+    "station": "Lahore",
+    "temperature": 28.47,
+    "rainfall": 6.7,
+    "co2": 423.54,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-21",
+    "station": "Islamabad",
+    "temperature": 24.95,
+    "rainfall": 10.01,
+    "co2": 419.7,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-21",
+    "station": "Quetta",
+    "temperature": 19.97,
+    "rainfall": 0,
+    "co2": 423.55,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-22",
+    "station": "Karachi",
+    "temperature": 34.19,
+    "rainfall": 6.92,
+    "co2": 427.19,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-22",
+    "station": "Lahore",
+    "temperature": 28.96,
+    "rainfall": 7.72,
+    "co2": 421.14,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-22",
+    "station": "Islamabad",
+    "temperature": 24.73,
+    "rainfall": 17.9,
+    "co2": 423.54,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-22",
+    "station": "Quetta",
+    "temperature": 19.32,
+    "rainfall": 1.6,
+    "co2": 421.38,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-23",
+    "station": "Karachi",
+    "temperature": 34.05,
+    "rainfall": 0,
+    "co2": 416.04,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-23",
+    "station": "Lahore",
+    "temperature": 26.83,
+    "rainfall": 3.57,
+    "co2": 420.34,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-23",
+    "station": "Islamabad",
+    "temperature": 25.53,
+    "rainfall": 0,
+    "co2": 418.1,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-23",
+    "station": "Quetta",
+    "temperature": 18.69,
+    "rainfall": 5.98,
+    "co2": 421.29,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-24",
+    "station": "Karachi",
+    "temperature": 34.42,
+    "rainfall": 8.74,
+    "co2": 420.19,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-24",
+    "station": "Lahore",
+    "temperature": 30.85,
+    "rainfall": 3.18,
+    "co2": 419.25,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-24",
+    "station": "Islamabad",
+    "temperature": 24.6,
+    "rainfall": 0.49,
+    "co2": 416.24,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-24",
+    "station": "Quetta",
+    "temperature": 21.41,
+    "rainfall": 5.5,
+    "co2": 419.85,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-25",
+    "station": "Karachi",
+    "temperature": 32.47,
+    "rainfall": 6.23,
+    "co2": 424.03,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-25",
+    "station": "Lahore",
+    "temperature": 29.37,
+    "rainfall": 0.95,
+    "co2": 419.42,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-25",
+    "station": "Islamabad",
+    "temperature": 25.24,
+    "rainfall": 0,
+    "co2": 420.35,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-25",
+    "station": "Quetta",
+    "temperature": 21.4,
+    "rainfall": 15.07,
+    "co2": 422.49,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-26",
+    "station": "Karachi",
+    "temperature": 34.66,
+    "rainfall": 0,
+    "co2": 421.96,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-26",
+    "station": "Lahore",
+    "temperature": 28.05,
+    "rainfall": 5.87,
+    "co2": 421.46,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-26",
+    "station": "Islamabad",
+    "temperature": 24.5,
+    "rainfall": 16.0,
+    "co2": 421.76,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-26",
+    "station": "Quetta",
+    "temperature": 19.14,
+    "rainfall": 7.32,
+    "co2": 419.81,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-27",
+    "station": "Karachi",
+    "temperature": 33.51,
+    "rainfall": 6.79,
+    "co2": 421.43,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-27",
+    "station": "Lahore",
+    "temperature": 27.06,
+    "rainfall": 0,
+    "co2": 422.2,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-27",
+    "station": "Islamabad",
+    "temperature": 27.07,
+    "rainfall": 15.42,
+    "co2": 424.26,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-27",
+    "station": "Quetta",
+    "temperature": 19.04,
+    "rainfall": 8.62,
+    "co2": 416.82,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-28",
+    "station": "Karachi",
+    "temperature": 35.51,
+    "rainfall": 5.52,
+    "co2": 418.39,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-28",
+    "station": "Lahore",
+    "temperature": 31.99,
+    "rainfall": 7.86,
+    "co2": 416.89,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-28",
+    "station": "Islamabad",
+    "temperature": 25.93,
+    "rainfall": 0,
+    "co2": 420.9,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-28",
+    "station": "Quetta",
+    "temperature": 21.02,
+    "rainfall": 12.24,
+    "co2": 417.83,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-29",
+    "station": "Karachi",
+    "temperature": 34.02,
+    "rainfall": 14.89,
+    "co2": 419.05,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-29",
+    "station": "Lahore",
+    "temperature": 29.89,
+    "rainfall": 5.21,
+    "co2": 419.32,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-29",
+    "station": "Islamabad",
+    "temperature": 26.42,
+    "rainfall": 4.58,
+    "co2": 418.81,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-29",
+    "station": "Quetta",
+    "temperature": 23.76,
+    "rainfall": 8.75,
+    "co2": 420.37,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-30",
+    "station": "Karachi",
+    "temperature": 32.93,
+    "rainfall": 0,
+    "co2": 423.19,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-30",
+    "station": "Lahore",
+    "temperature": 29.52,
+    "rainfall": 6.76,
+    "co2": 420.36,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-30",
+    "station": "Islamabad",
+    "temperature": 26.44,
+    "rainfall": 3.3,
+    "co2": 422.25,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-30",
+    "station": "Quetta",
+    "temperature": 21.48,
+    "rainfall": 8.98,
+    "co2": 422.07,
+    "source": "weather"
+  },
+  {
+    "day": "2026-01-31",
+    "station": "Karachi",
+    "temperature": 33.6,
+    "rainfall": 0,
+    "co2": 418.87,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-31",
+    "station": "Lahore",
+    "temperature": 28.85,
+    "rainfall": 0,
+    "co2": 422.48,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-31",
+    "station": "Islamabad",
+    "temperature": 25.68,
+    "rainfall": 13.42,
+    "co2": 425.31,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-01-31",
+    "station": "Quetta",
+    "temperature": 21.77,
+    "rainfall": 0,
+    "co2": 419.99,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-01",
+    "station": "Karachi",
+    "temperature": 33.68,
+    "rainfall": 0,
+    "co2": 420.27,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-01",
+    "station": "Lahore",
+    "temperature": 30.12,
+    "rainfall": 1.24,
+    "co2": 419.24,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-01",
+    "station": "Islamabad",
+    "temperature": 24.86,
+    "rainfall": 14.72,
+    "co2": 420.46,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-01",
+    "station": "Quetta",
+    "temperature": 20.78,
+    "rainfall": 1.76,
+    "co2": 422.68,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-02",
+    "station": "Karachi",
+    "temperature": 32.98,
+    "rainfall": 6.89,
+    "co2": 422.26,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-02",
+    "station": "Lahore",
+    "temperature": 30.7,
+    "rainfall": 12.4,
+    "co2": 419.7,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-02",
+    "station": "Islamabad",
+    "temperature": 27.16,
+    "rainfall": 0,
+    "co2": 420.01,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-02",
+    "station": "Quetta",
+    "temperature": 23.23,
+    "rainfall": 8.93,
+    "co2": 420.8,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-03",
+    "station": "Karachi",
+    "temperature": 32.38,
+    "rainfall": 7.37,
+    "co2": 419.56,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-03",
+    "station": "Lahore",
+    "temperature": 28.7,
+    "rainfall": 0.11,
+    "co2": 421.32,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-03",
+    "station": "Islamabad",
+    "temperature": 23.27,
+    "rainfall": 6.16,
+    "co2": 421.17,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-03",
+    "station": "Quetta",
+    "temperature": 21.11,
+    "rainfall": 10.22,
+    "co2": 422.05,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-04",
+    "station": "Karachi",
+    "temperature": 33.09,
+    "rainfall": 0,
+    "co2": 422.24,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-04",
+    "station": "Lahore",
+    "temperature": 28.0,
+    "rainfall": 2.0,
+    "co2": 419.59,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-04",
+    "station": "Islamabad",
+    "temperature": 25.9,
+    "rainfall": 5.27,
+    "co2": 420.92,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-04",
+    "station": "Quetta",
+    "temperature": 23.18,
+    "rainfall": 5.37,
+    "co2": 420.22,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-05",
+    "station": "Karachi",
+    "temperature": 32.36,
+    "rainfall": 8.33,
+    "co2": 421.93,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-05",
+    "station": "Lahore",
+    "temperature": 31.55,
+    "rainfall": 0,
+    "co2": 420.93,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-05",
+    "station": "Islamabad",
+    "temperature": 25.74,
+    "rainfall": 3.47,
+    "co2": 420.9,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-05",
+    "station": "Quetta",
+    "temperature": 19.75,
+    "rainfall": 8.95,
+    "co2": 422.18,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-06",
+    "station": "Karachi",
+    "temperature": 35.15,
+    "rainfall": 17.5,
+    "co2": 420.26,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-06",
+    "station": "Lahore",
+    "temperature": 29.75,
+    "rainfall": 4.06,
+    "co2": 424.78,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-06",
+    "station": "Islamabad",
+    "temperature": 23.72,
+    "rainfall": 6.91,
+    "co2": 417.96,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-06",
+    "station": "Quetta",
+    "temperature": 18.7,
+    "rainfall": 0,
+    "co2": 418.14,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-07",
+    "station": "Karachi",
+    "temperature": 35.05,
+    "rainfall": 0,
+    "co2": 420.47,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-07",
+    "station": "Lahore",
+    "temperature": 28.37,
+    "rainfall": 7.67,
+    "co2": 418.72,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-07",
+    "station": "Islamabad",
+    "temperature": 27.35,
+    "rainfall": 0,
+    "co2": 419.4,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-07",
+    "station": "Quetta",
+    "temperature": 21.92,
+    "rainfall": 4.15,
+    "co2": 423.77,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-08",
+    "station": "Karachi",
+    "temperature": 33.88,
+    "rainfall": 0,
+    "co2": 419.83,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-08",
+    "station": "Lahore",
+    "temperature": 29.05,
+    "rainfall": 8.35,
+    "co2": 421.72,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-08",
+    "station": "Islamabad",
+    "temperature": 25.59,
+    "rainfall": 9.22,
+    "co2": 419.89,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-08",
+    "station": "Quetta",
+    "temperature": 21.57,
+    "rainfall": 5.08,
+    "co2": 424.01,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-09",
+    "station": "Karachi",
+    "temperature": 33.57,
+    "rainfall": 1.9,
+    "co2": 418.88,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-09",
+    "station": "Lahore",
+    "temperature": 30.51,
+    "rainfall": 0.47,
+    "co2": 421.66,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-09",
+    "station": "Islamabad",
+    "temperature": 23.41,
+    "rainfall": 10.26,
+    "co2": 418.31,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-09",
+    "station": "Quetta",
+    "temperature": 20.76,
+    "rainfall": 10.35,
+    "co2": 418.31,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-10",
+    "station": "Karachi",
+    "temperature": 33.54,
+    "rainfall": 4.45,
+    "co2": 419.0,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-10",
+    "station": "Lahore",
+    "temperature": 31.25,
+    "rainfall": 12.99,
+    "co2": 417.06,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-10",
+    "station": "Islamabad",
+    "temperature": 23.9,
+    "rainfall": 8.85,
+    "co2": 418.39,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-10",
+    "station": "Quetta",
+    "temperature": 21.17,
+    "rainfall": 4.78,
+    "co2": 422.38,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-11",
+    "station": "Karachi",
+    "temperature": 33.31,
+    "rainfall": 4.57,
+    "co2": 419.47,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-11",
+    "station": "Lahore",
+    "temperature": 31.13,
+    "rainfall": 1.03,
+    "co2": 421.7,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-11",
+    "station": "Islamabad",
+    "temperature": 24.96,
+    "rainfall": 4.64,
+    "co2": 420.69,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-11",
+    "station": "Quetta",
+    "temperature": 21.38,
+    "rainfall": 0,
+    "co2": 422.62,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-12",
+    "station": "Karachi",
+    "temperature": 35.2,
+    "rainfall": 5.46,
+    "co2": 422.51,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-12",
+    "station": "Lahore",
+    "temperature": 30.51,
+    "rainfall": 9.57,
+    "co2": 421.66,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-12",
+    "station": "Islamabad",
+    "temperature": 25.76,
+    "rainfall": 9.18,
+    "co2": 421.19,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-12",
+    "station": "Quetta",
+    "temperature": 20.33,
+    "rainfall": 4.14,
+    "co2": 417.27,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-13",
+    "station": "Karachi",
+    "temperature": 33.42,
+    "rainfall": 6.48,
+    "co2": 423.55,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-13",
+    "station": "Lahore",
+    "temperature": 29.6,
+    "rainfall": 9.57,
+    "co2": 421.07,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-13",
+    "station": "Islamabad",
+    "temperature": 24.19,
+    "rainfall": 0,
+    "co2": 419.14,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-13",
+    "station": "Quetta",
+    "temperature": 19.78,
+    "rainfall": 7.8,
+    "co2": 420.66,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-14",
+    "station": "Karachi",
+    "temperature": 34.02,
+    "rainfall": 4.44,
+    "co2": 423.19,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-14",
+    "station": "Lahore",
+    "temperature": 30.61,
+    "rainfall": 0.13,
+    "co2": 420.55,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-14",
+    "station": "Islamabad",
+    "temperature": 24.69,
+    "rainfall": 0,
+    "co2": 422.45,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-14",
+    "station": "Quetta",
+    "temperature": 22.76,
+    "rainfall": 3.96,
+    "co2": 420.11,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-15",
+    "station": "Karachi",
+    "temperature": 34.55,
+    "rainfall": 0,
+    "co2": 421.48,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-15",
+    "station": "Lahore",
+    "temperature": 29.41,
+    "rainfall": 0.57,
+    "co2": 423.91,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-15",
+    "station": "Islamabad",
+    "temperature": 26.4,
+    "rainfall": 2.43,
+    "co2": 420.95,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-15",
+    "station": "Quetta",
+    "temperature": 20.77,
+    "rainfall": 0.93,
+    "co2": 418.51,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-16",
+    "station": "Karachi",
+    "temperature": 34.79,
+    "rainfall": 10.17,
+    "co2": 422.75,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-16",
+    "station": "Lahore",
+    "temperature": 27.82,
+    "rainfall": 16.49,
+    "co2": 425.11,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-16",
+    "station": "Islamabad",
+    "temperature": 25.36,
+    "rainfall": 0,
+    "co2": 419.42,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-16",
+    "station": "Quetta",
+    "temperature": 21.64,
+    "rainfall": 0,
+    "co2": 421.08,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-17",
+    "station": "Karachi",
+    "temperature": 34.33,
+    "rainfall": 0,
+    "co2": 425.19,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-17",
+    "station": "Lahore",
+    "temperature": 30.9,
+    "rainfall": 0,
+    "co2": 418.35,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-17",
+    "station": "Islamabad",
+    "temperature": 24.68,
+    "rainfall": 0,
+    "co2": 420.65,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-17",
+    "station": "Quetta",
+    "temperature": 17.92,
+    "rainfall": 2.63,
+    "co2": 424.78,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-18",
+    "station": "Karachi",
+    "temperature": 31.56,
+    "rainfall": 2.36,
+    "co2": 418.22,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-18",
+    "station": "Lahore",
+    "temperature": 29.67,
+    "rainfall": 2.65,
+    "co2": 425.08,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-18",
+    "station": "Islamabad",
+    "temperature": 25.15,
+    "rainfall": 1.77,
+    "co2": 422.3,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-18",
+    "station": "Quetta",
+    "temperature": 20.29,
+    "rainfall": 0,
+    "co2": 421.8,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-19",
+    "station": "Karachi",
+    "temperature": 32.57,
+    "rainfall": 5.0,
+    "co2": 421.98,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-19",
+    "station": "Lahore",
+    "temperature": 28.16,
+    "rainfall": 6.53,
+    "co2": 424.7,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-19",
+    "station": "Islamabad",
+    "temperature": 23.45,
+    "rainfall": 14.42,
+    "co2": 420.74,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-19",
+    "station": "Quetta",
+    "temperature": 19.86,
+    "rainfall": 18.56,
+    "co2": 421.54,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-20",
+    "station": "Karachi",
+    "temperature": 34.29,
+    "rainfall": 8.91,
+    "co2": 417.89,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-20",
+    "station": "Lahore",
+    "temperature": 28.79,
+    "rainfall": 0.85,
+    "co2": 418.57,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-20",
+    "station": "Islamabad",
+    "temperature": 22.52,
+    "rainfall": 4.61,
+    "co2": 422.43,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-20",
+    "station": "Quetta",
+    "temperature": 21.11,
+    "rainfall": 2.17,
+    "co2": 419.65,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-21",
+    "station": "Karachi",
+    "temperature": 31.32,
+    "rainfall": 0.67,
+    "co2": 419.21,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-21",
+    "station": "Lahore",
+    "temperature": 28.26,
+    "rainfall": 3.86,
+    "co2": 419.48,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-21",
+    "station": "Islamabad",
+    "temperature": 24.23,
+    "rainfall": 0,
+    "co2": 421.27,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-21",
+    "station": "Quetta",
+    "temperature": 21.11,
+    "rainfall": 5.07,
+    "co2": 422.22,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-22",
+    "station": "Karachi",
+    "temperature": 45.38,
+    "rainfall": 1.73,
+    "co2": 421.85,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-22",
+    "station": "Lahore",
+    "temperature": 44.13,
+    "rainfall": 0,
+    "co2": 421.62,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-22",
+    "station": "Islamabad",
+    "temperature": 40.81,
+    "rainfall": 2.93,
+    "co2": 421.11,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-22",
+    "station": "Quetta",
+    "temperature": 35.9,
+    "rainfall": 5.48,
+    "co2": 422.65,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-23",
+    "station": "Karachi",
+    "temperature": 32.3,
+    "rainfall": 4.91,
+    "co2": 419.76,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-23",
+    "station": "Lahore",
+    "temperature": 28.01,
+    "rainfall": 11.52,
+    "co2": 420.92,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-23",
+    "station": "Islamabad",
+    "temperature": 24.01,
+    "rainfall": 1.05,
+    "co2": 422.9,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-23",
+    "station": "Quetta",
+    "temperature": 19.19,
+    "rainfall": 9.46,
+    "co2": 419.45,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-24",
+    "station": "Karachi",
+    "temperature": 30.79,
+    "rainfall": 5.24,
+    "co2": 421.61,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-24",
+    "station": "Lahore",
+    "temperature": 28.42,
+    "rainfall": 10.38,
+    "co2": 420.53,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-24",
+    "station": "Islamabad",
+    "temperature": 24.59,
+    "rainfall": 0,
+    "co2": 423.87,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-24",
+    "station": "Quetta",
+    "temperature": 20.82,
+    "rainfall": 7.22,
+    "co2": 421.73,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-25",
+    "station": "Karachi",
+    "temperature": 30.96,
+    "rainfall": 2.04,
+    "co2": 422.38,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-25",
+    "station": "Lahore",
+    "temperature": 27.88,
+    "rainfall": 4.74,
+    "co2": 418.66,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-25",
+    "station": "Islamabad",
+    "temperature": 24.12,
+    "rainfall": 0,
+    "co2": 419.21,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-25",
+    "station": "Quetta",
+    "temperature": 19.72,
+    "rainfall": 0,
+    "co2": 422.77,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-26",
+    "station": "Karachi",
+    "temperature": 32.76,
+    "rainfall": 3.68,
+    "co2": 419.41,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-26",
+    "station": "Lahore",
+    "temperature": 26.61,
+    "rainfall": 3.09,
+    "co2": 416.55,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-26",
+    "station": "Islamabad",
+    "temperature": 23.96,
+    "rainfall": 7.99,
+    "co2": 420.78,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-26",
+    "station": "Quetta",
+    "temperature": 19.15,
+    "rainfall": 5.09,
+    "co2": 422.1,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-27",
+    "station": "Karachi",
+    "temperature": 32.89,
+    "rainfall": 4.11,
+    "co2": 420.05,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-27",
+    "station": "Lahore",
+    "temperature": 27.02,
+    "rainfall": 5.09,
+    "co2": 424.54,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-27",
+    "station": "Islamabad",
+    "temperature": 23.19,
+    "rainfall": 0,
+    "co2": 419.68,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-27",
+    "station": "Quetta",
+    "temperature": 17.06,
+    "rainfall": 5.98,
+    "co2": 418.7,
+    "source": "weather"
+  },
+  {
+    "day": "2026-02-28",
+    "station": "Karachi",
+    "temperature": 29.93,
+    "rainfall": 0,
+    "co2": 419.21,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-28",
+    "station": "Lahore",
+    "temperature": 28.09,
+    "rainfall": 0,
+    "co2": 417.95,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-28",
+    "station": "Islamabad",
+    "temperature": 23.62,
+    "rainfall": 1.95,
+    "co2": 422.31,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-02-28",
+    "station": "Quetta",
+    "temperature": 20.3,
+    "rainfall": 3.95,
+    "co2": 418.85,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-01",
+    "station": "Karachi",
+    "temperature": 31.09,
+    "rainfall": 7.0,
+    "co2": 420.31,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-01",
+    "station": "Lahore",
+    "temperature": 25.51,
+    "rainfall": 10.62,
+    "co2": 420.64,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-01",
+    "station": "Islamabad",
+    "temperature": 22.75,
+    "rainfall": 4.1,
+    "co2": 423.54,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-01",
+    "station": "Quetta",
+    "temperature": 19.55,
+    "rainfall": 2.0,
+    "co2": 422.84,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-02",
+    "station": "Karachi",
+    "temperature": 33.64,
+    "rainfall": 12.33,
+    "co2": 422.85,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-02",
+    "station": "Lahore",
+    "temperature": 25.72,
+    "rainfall": 26.51,
+    "co2": 419.1,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-02",
+    "station": "Islamabad",
+    "temperature": 22.62,
+    "rainfall": 0,
+    "co2": 424.75,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-02",
+    "station": "Quetta",
+    "temperature": 19.57,
+    "rainfall": 0,
+    "co2": 422.04,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-03",
+    "station": "Karachi",
+    "temperature": 31.55,
+    "rainfall": 2.09,
+    "co2": 419.08,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-03",
+    "station": "Lahore",
+    "temperature": 26.02,
+    "rainfall": 1.38,
+    "co2": 421.57,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-03",
+    "station": "Islamabad",
+    "temperature": 22.27,
+    "rainfall": 8.41,
+    "co2": 419.63,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-03",
+    "station": "Quetta",
+    "temperature": 16.81,
+    "rainfall": 0,
+    "co2": 424.22,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-04",
+    "station": "Karachi",
+    "temperature": 30.03,
+    "rainfall": 18.04,
+    "co2": 422.53,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-04",
+    "station": "Lahore",
+    "temperature": 25.32,
+    "rainfall": 0,
+    "co2": 422.04,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-04",
+    "station": "Islamabad",
+    "temperature": 21.3,
+    "rainfall": 18.25,
+    "co2": 419.57,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-04",
+    "station": "Quetta",
+    "temperature": 19.53,
+    "rainfall": 12.76,
+    "co2": 421.33,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-05",
+    "station": "Karachi",
+    "temperature": 29.35,
+    "rainfall": 2.36,
+    "co2": 422.3,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-05",
+    "station": "Lahore",
+    "temperature": 27.59,
+    "rainfall": 4.34,
+    "co2": 418.77,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-05",
+    "station": "Islamabad",
+    "temperature": 22.59,
+    "rainfall": 0,
+    "co2": 417.21,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-05",
+    "station": "Quetta",
+    "temperature": 17.7,
+    "rainfall": 0,
+    "co2": 422.75,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-06",
+    "station": "Karachi",
+    "temperature": 32.7,
+    "rainfall": 15.15,
+    "co2": 420.45,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-06",
+    "station": "Lahore",
+    "temperature": 25.81,
+    "rainfall": 8.13,
+    "co2": 423.72,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-06",
+    "station": "Islamabad",
+    "temperature": 21.86,
+    "rainfall": 3.14,
+    "co2": 426.01,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-06",
+    "station": "Quetta",
+    "temperature": 18.24,
+    "rainfall": 1.09,
+    "co2": 421.84,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-07",
+    "station": "Karachi",
+    "temperature": 30.89,
+    "rainfall": 0,
+    "co2": 421.13,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-07",
+    "station": "Lahore",
+    "temperature": 24.79,
+    "rainfall": 2.33,
+    "co2": 425.38,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-07",
+    "station": "Islamabad",
+    "temperature": 23.08,
+    "rainfall": 3.44,
+    "co2": 419.76,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-07",
+    "station": "Quetta",
+    "temperature": 17.82,
+    "rainfall": 10.3,
+    "co2": 420.5,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-08",
+    "station": "Karachi",
+    "temperature": 31.76,
+    "rainfall": 0,
+    "co2": 421.07,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-08",
+    "station": "Lahore",
+    "temperature": 28.11,
+    "rainfall": 0,
+    "co2": 424.03,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-08",
+    "station": "Islamabad",
+    "temperature": 19.8,
+    "rainfall": 3.46,
+    "co2": 421.3,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-08",
+    "station": "Quetta",
+    "temperature": 19.01,
+    "rainfall": 0,
+    "co2": 417.81,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-09",
+    "station": "Karachi",
+    "temperature": 29.17,
+    "rainfall": 4.22,
+    "co2": 419.89,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-09",
+    "station": "Lahore",
+    "temperature": 25.58,
+    "rainfall": 0,
+    "co2": 420.87,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-09",
+    "station": "Islamabad",
+    "temperature": 20.83,
+    "rainfall": 5.46,
+    "co2": 422.84,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-09",
+    "station": "Quetta",
+    "temperature": 19.57,
+    "rainfall": 0.06,
+    "co2": 421.04,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-10",
+    "station": "Karachi",
+    "temperature": 29.74,
+    "rainfall": 2.23,
+    "co2": 421.6,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-10",
+    "station": "Lahore",
+    "temperature": 23.8,
+    "rainfall": 6.23,
+    "co2": 419.87,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-10",
+    "station": "Islamabad",
+    "temperature": 20.53,
+    "rainfall": 0,
+    "co2": 424.02,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-10",
+    "station": "Quetta",
+    "temperature": 17.51,
+    "rainfall": 10.9,
+    "co2": 422.24,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-11",
+    "station": "Karachi",
+    "temperature": 27.47,
+    "rainfall": 0,
+    "co2": 423.24,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-11",
+    "station": "Lahore",
+    "temperature": 24.59,
+    "rainfall": 0,
+    "co2": 421.37,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-11",
+    "station": "Islamabad",
+    "temperature": 21.3,
+    "rainfall": 0,
+    "co2": 421.07,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-11",
+    "station": "Quetta",
+    "temperature": 16.94,
+    "rainfall": 0,
+    "co2": 422.73,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-12",
+    "station": "Karachi",
+    "temperature": 28.37,
+    "rainfall": 11.83,
+    "co2": 419.45,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-12",
+    "station": "Lahore",
+    "temperature": 23.45,
+    "rainfall": 11.13,
+    "co2": 418.58,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-12",
+    "station": "Islamabad",
+    "temperature": 20.58,
+    "rainfall": 7.58,
+    "co2": 421.09,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-12",
+    "station": "Quetta",
+    "temperature": 15.36,
+    "rainfall": 5.13,
+    "co2": 421.36,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-13",
+    "station": "Karachi",
+    "temperature": 30.73,
+    "rainfall": 7.53,
+    "co2": 427.85,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-13",
+    "station": "Lahore",
+    "temperature": 23.21,
+    "rainfall": 3.87,
+    "co2": 419.64,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-13",
+    "station": "Islamabad",
+    "temperature": 22.57,
+    "rainfall": 8.93,
+    "co2": 423.28,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-13",
+    "station": "Quetta",
+    "temperature": 16.25,
+    "rainfall": 0,
+    "co2": 417.72,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-14",
+    "station": "Karachi",
+    "temperature": 31.08,
+    "rainfall": 7.05,
+    "co2": 421.28,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-14",
+    "station": "Lahore",
+    "temperature": 26.15,
+    "rainfall": 8.51,
+    "co2": 423.75,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-14",
+    "station": "Islamabad",
+    "temperature": 19.08,
+    "rainfall": 0,
+    "co2": 422.19,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-14",
+    "station": "Quetta",
+    "temperature": 17.46,
+    "rainfall": 9.74,
+    "co2": 419.78,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-15",
+    "station": "Karachi",
+    "temperature": 29.03,
+    "rainfall": 17.23,
+    "co2": 423.21,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-15",
+    "station": "Lahore",
+    "temperature": 25.92,
+    "rainfall": 3.88,
+    "co2": 423.36,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-15",
+    "station": "Islamabad",
+    "temperature": 23.04,
+    "rainfall": 4.64,
+    "co2": 424.27,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-15",
+    "station": "Quetta",
+    "temperature": 15.83,
+    "rainfall": 7.54,
+    "co2": 423.63,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-16",
+    "station": "Karachi",
+    "temperature": 27.83,
+    "rainfall": 10.59,
+    "co2": 420.5,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-16",
+    "station": "Lahore",
+    "temperature": 23.76,
+    "rainfall": 3.99,
+    "co2": 425.71,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-16",
+    "station": "Islamabad",
+    "temperature": 21.1,
+    "rainfall": 9.61,
+    "co2": 420.39,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-16",
+    "station": "Quetta",
+    "temperature": 16.82,
+    "rainfall": 0,
+    "co2": 420.71,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-17",
+    "station": "Karachi",
+    "temperature": 29.59,
+    "rainfall": 3.77,
+    "co2": 424.78,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-17",
+    "station": "Lahore",
+    "temperature": 24.35,
+    "rainfall": 2.81,
+    "co2": 424.43,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-17",
+    "station": "Islamabad",
+    "temperature": 19.81,
+    "rainfall": 0,
+    "co2": 424.48,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-17",
+    "station": "Quetta",
+    "temperature": 17.09,
+    "rainfall": 0,
+    "co2": 421.96,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-18",
+    "station": "Karachi",
+    "temperature": 27.97,
+    "rainfall": 14.47,
+    "co2": 420.44,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-18",
+    "station": "Lahore",
+    "temperature": 23.76,
+    "rainfall": 0,
+    "co2": 419.79,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-18",
+    "station": "Islamabad",
+    "temperature": 19.61,
+    "rainfall": 0,
+    "co2": 419.84,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-18",
+    "station": "Quetta",
+    "temperature": 14.52,
+    "rainfall": 0,
+    "co2": 418.78,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-19",
+    "station": "Karachi",
+    "temperature": 27.7,
+    "rainfall": 0,
+    "co2": 419.47,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-19",
+    "station": "Lahore",
+    "temperature": 24.9,
+    "rainfall": 3.71,
+    "co2": 421.06,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-19",
+    "station": "Islamabad",
+    "temperature": 19.77,
+    "rainfall": 13.56,
+    "co2": 422.4,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-19",
+    "station": "Quetta",
+    "temperature": 16.89,
+    "rainfall": 0,
+    "co2": 420.62,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-20",
+    "station": "Karachi",
+    "temperature": 25.59,
+    "rainfall": 1.44,
+    "co2": 422.7,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-20",
+    "station": "Lahore",
+    "temperature": 23.39,
+    "rainfall": 7.11,
+    "co2": 419.9,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-20",
+    "station": "Islamabad",
+    "temperature": 20.89,
+    "rainfall": 0,
+    "co2": 421.43,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-20",
+    "station": "Quetta",
+    "temperature": 16.7,
+    "rainfall": 7.22,
+    "co2": 421.7,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-21",
+    "station": "Karachi",
+    "temperature": 30.41,
+    "rainfall": 1.51,
+    "co2": 421.07,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-21",
+    "station": "Lahore",
+    "temperature": 20.77,
+    "rainfall": 14.61,
+    "co2": 421.24,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-21",
+    "station": "Islamabad",
+    "temperature": 18.67,
+    "rainfall": 11.93,
+    "co2": 424.45,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-21",
+    "station": "Quetta",
+    "temperature": 16.21,
+    "rainfall": 0,
+    "co2": 422.81,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-22",
+    "station": "Karachi",
+    "temperature": 27.23,
+    "rainfall": 0,
+    "co2": 424.09,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-22",
+    "station": "Lahore",
+    "temperature": 21.41,
+    "rainfall": 7.4,
+    "co2": 422.92,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-22",
+    "station": "Islamabad",
+    "temperature": 22.43,
+    "rainfall": 5.95,
+    "co2": 417.88,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-22",
+    "station": "Quetta",
+    "temperature": 14.97,
+    "rainfall": 4.39,
+    "co2": 422.71,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-23",
+    "station": "Karachi",
+    "temperature": 29.05,
+    "rainfall": 0,
+    "co2": 421.37,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-23",
+    "station": "Lahore",
+    "temperature": 25.03,
+    "rainfall": 13.26,
+    "co2": 425.75,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-23",
+    "station": "Islamabad",
+    "temperature": 19.4,
+    "rainfall": 10.59,
+    "co2": 425.45,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-23",
+    "station": "Quetta",
+    "temperature": 17.31,
+    "rainfall": 8.34,
+    "co2": 423.68,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-24",
+    "station": "Karachi",
+    "temperature": 26.83,
+    "rainfall": 0,
+    "co2": 424.02,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-24",
+    "station": "Lahore",
+    "temperature": 23.36,
+    "rainfall": 3.83,
+    "co2": 420.89,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-24",
+    "station": "Islamabad",
+    "temperature": 19.31,
+    "rainfall": 5.4,
+    "co2": 420.01,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-24",
+    "station": "Quetta",
+    "temperature": 15.86,
+    "rainfall": 5.48,
+    "co2": 421.9,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-25",
+    "station": "Karachi",
+    "temperature": 26.8,
+    "rainfall": 8.72,
+    "co2": 425.82,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-25",
+    "station": "Lahore",
+    "temperature": 22.97,
+    "rainfall": 11.41,
+    "co2": 423.85,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-25",
+    "station": "Islamabad",
+    "temperature": 16.51,
+    "rainfall": 0,
+    "co2": 420.8,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-25",
+    "station": "Quetta",
+    "temperature": 16.63,
+    "rainfall": 5.13,
+    "co2": 423.02,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-26",
+    "station": "Karachi",
+    "temperature": 28.38,
+    "rainfall": 0,
+    "co2": 420.61,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-26",
+    "station": "Lahore",
+    "temperature": 22.15,
+    "rainfall": 2.98,
+    "co2": 421.86,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-26",
+    "station": "Islamabad",
+    "temperature": 19.82,
+    "rainfall": 0,
+    "co2": 423.91,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-26",
+    "station": "Quetta",
+    "temperature": 16.71,
+    "rainfall": 13.28,
+    "co2": 423.52,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-27",
+    "station": "Karachi",
+    "temperature": 27.77,
+    "rainfall": 8.03,
+    "co2": 423.34,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-27",
+    "station": "Lahore",
+    "temperature": 22.76,
+    "rainfall": 11.74,
+    "co2": 425.56,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-27",
+    "station": "Islamabad",
+    "temperature": 21.92,
+    "rainfall": 4.21,
+    "co2": 422.77,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-27",
+    "station": "Quetta",
+    "temperature": 16.04,
+    "rainfall": 3.98,
+    "co2": 423.36,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-28",
+    "station": "Karachi",
+    "temperature": 27.34,
+    "rainfall": 2.84,
+    "co2": 425.67,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-28",
+    "station": "Lahore",
+    "temperature": 23.68,
+    "rainfall": 4.4,
+    "co2": 423.91,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-28",
+    "station": "Islamabad",
+    "temperature": 19.67,
+    "rainfall": 5.75,
+    "co2": 422.02,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-28",
+    "station": "Quetta",
+    "temperature": 14.02,
+    "rainfall": 3.81,
+    "co2": 419.88,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-29",
+    "station": "Karachi",
+    "temperature": 27.69,
+    "rainfall": 0,
+    "co2": 424.01,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-29",
+    "station": "Lahore",
+    "temperature": 24.33,
+    "rainfall": 5.68,
+    "co2": 421.97,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-29",
+    "station": "Islamabad",
+    "temperature": 19.93,
+    "rainfall": 0,
+    "co2": 419.98,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-29",
+    "station": "Quetta",
+    "temperature": 15.26,
+    "rainfall": 6.07,
+    "co2": 422.02,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-30",
+    "station": "Karachi",
+    "temperature": 26.19,
+    "rainfall": 4.8,
+    "co2": 421.29,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-30",
+    "station": "Lahore",
+    "temperature": 22.11,
+    "rainfall": 5.98,
+    "co2": 421.78,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-30",
+    "station": "Islamabad",
+    "temperature": 20.83,
+    "rainfall": 7.99,
+    "co2": 423.67,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-30",
+    "station": "Quetta",
+    "temperature": 15.78,
+    "rainfall": 0,
+    "co2": 420.33,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-03-31",
+    "station": "Karachi",
+    "temperature": 25.6,
+    "rainfall": 21.27,
+    "co2": 420.07,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-31",
+    "station": "Lahore",
+    "temperature": 23.11,
+    "rainfall": 1.84,
+    "co2": 421.66,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-31",
+    "station": "Islamabad",
+    "temperature": 18.66,
+    "rainfall": 0,
+    "co2": 420.23,
+    "source": "weather"
+  },
+  {
+    "day": "2026-03-31",
+    "station": "Quetta",
+    "temperature": 13.69,
+    "rainfall": 3.24,
+    "co2": 420.86,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-01",
+    "station": "Karachi",
+    "temperature": 26.52,
+    "rainfall": 5.3,
+    "co2": 421.08,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-01",
+    "station": "Lahore",
+    "temperature": 24.46,
+    "rainfall": 1.68,
+    "co2": 422.7,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-01",
+    "station": "Islamabad",
+    "temperature": 17.75,
+    "rainfall": 7.94,
+    "co2": 421.44,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-01",
+    "station": "Quetta",
+    "temperature": 15.83,
+    "rainfall": 5.98,
+    "co2": 421.9,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-02",
+    "station": "Karachi",
+    "temperature": 27.59,
+    "rainfall": 1.69,
+    "co2": 424.97,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-02",
+    "station": "Lahore",
+    "temperature": 24.45,
+    "rainfall": 6.89,
+    "co2": 419.91,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-02",
+    "station": "Islamabad",
+    "temperature": 18.01,
+    "rainfall": 0.02,
+    "co2": 421.78,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-02",
+    "station": "Quetta",
+    "temperature": 15.87,
+    "rainfall": 0,
+    "co2": 424.63,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-03",
+    "station": "Karachi",
+    "temperature": 27.33,
+    "rainfall": 0,
+    "co2": 421.35,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-03",
+    "station": "Lahore",
+    "temperature": 20.22,
+    "rainfall": 0,
+    "co2": 421.2,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-03",
+    "station": "Islamabad",
+    "temperature": 18.59,
+    "rainfall": 2.05,
+    "co2": 421.51,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-03",
+    "station": "Quetta",
+    "temperature": 14.61,
+    "rainfall": 13.01,
+    "co2": 424.73,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-04",
+    "station": "Karachi",
+    "temperature": 25.96,
+    "rainfall": 11.52,
+    "co2": 419.08,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-04",
+    "station": "Lahore",
+    "temperature": 22.36,
+    "rainfall": 13.15,
+    "co2": 417.85,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-04",
+    "station": "Islamabad",
+    "temperature": 20.02,
+    "rainfall": 0,
+    "co2": 422.04,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-04",
+    "station": "Quetta",
+    "temperature": 15.12,
+    "rainfall": 14.18,
+    "co2": 420.7,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-05",
+    "station": "Karachi",
+    "temperature": 27.27,
+    "rainfall": 7.76,
+    "co2": 421.85,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-05",
+    "station": "Lahore",
+    "temperature": 22.36,
+    "rainfall": 3.64,
+    "co2": 422.54,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-05",
+    "station": "Islamabad",
+    "temperature": 20.41,
+    "rainfall": 0,
+    "co2": 421.45,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-05",
+    "station": "Quetta",
+    "temperature": 15.74,
+    "rainfall": 3.0,
+    "co2": 421.98,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-06",
+    "station": "Karachi",
+    "temperature": 27.36,
+    "rainfall": 0,
+    "co2": 420.78,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-06",
+    "station": "Lahore",
+    "temperature": 23.91,
+    "rainfall": 0,
+    "co2": 424.71,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-06",
+    "station": "Islamabad",
+    "temperature": 19.64,
+    "rainfall": 0,
+    "co2": 422.94,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-06",
+    "station": "Quetta",
+    "temperature": 15.58,
+    "rainfall": 8.57,
+    "co2": 424.69,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-07",
+    "station": "Karachi",
+    "temperature": 26.98,
+    "rainfall": 0,
+    "co2": 421.19,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-07",
+    "station": "Lahore",
+    "temperature": 22.24,
+    "rainfall": 0,
+    "co2": 422.97,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-07",
+    "station": "Islamabad",
+    "temperature": 19.43,
+    "rainfall": 1.05,
+    "co2": 420.92,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-07",
+    "station": "Quetta",
+    "temperature": 15.83,
+    "rainfall": 0.99,
+    "co2": 420.32,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-08",
+    "station": "Karachi",
+    "temperature": 27.28,
+    "rainfall": 2.41,
+    "co2": 420.28,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-08",
+    "station": "Lahore",
+    "temperature": 24.46,
+    "rainfall": 9.08,
+    "co2": 422.51,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-08",
+    "station": "Islamabad",
+    "temperature": 19.62,
+    "rainfall": 7.16,
+    "co2": 422.36,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-08",
+    "station": "Quetta",
+    "temperature": 16.53,
+    "rainfall": 13.94,
+    "co2": 422.59,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-09",
+    "station": "Karachi",
+    "temperature": 28.05,
+    "rainfall": 9.24,
+    "co2": 421.77,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-09",
+    "station": "Lahore",
+    "temperature": 22.17,
+    "rainfall": 9.44,
+    "co2": 419.31,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-09",
+    "station": "Islamabad",
+    "temperature": 21.67,
+    "rainfall": 9.22,
+    "co2": 422.83,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-09",
+    "station": "Quetta",
+    "temperature": 15.58,
+    "rainfall": 14.51,
+    "co2": 420.56,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-10",
+    "station": "Karachi",
+    "temperature": 26.2,
+    "rainfall": 0.41,
+    "co2": 421.95,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-10",
+    "station": "Lahore",
+    "temperature": 22.38,
+    "rainfall": 4.92,
+    "co2": 422.75,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-10",
+    "station": "Islamabad",
+    "temperature": 18.61,
+    "rainfall": 13.62,
+    "co2": 419.69,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-10",
+    "station": "Quetta",
+    "temperature": 14.06,
+    "rainfall": 6.26,
+    "co2": 422.06,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-11",
+    "station": "Karachi",
+    "temperature": 28.17,
+    "rainfall": 0.29,
+    "co2": 420.43,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-11",
+    "station": "Lahore",
+    "temperature": 22.89,
+    "rainfall": 0,
+    "co2": 423.55,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-11",
+    "station": "Islamabad",
+    "temperature": 19.09,
+    "rainfall": 8.57,
+    "co2": 423.68,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-11",
+    "station": "Quetta",
+    "temperature": 16.91,
+    "rainfall": 9.4,
+    "co2": 424.07,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-12",
+    "station": "Karachi",
+    "temperature": 28.67,
+    "rainfall": 0.9,
+    "co2": 422.0,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-12",
+    "station": "Lahore",
+    "temperature": 21.55,
+    "rainfall": 5.75,
+    "co2": 421.18,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-12",
+    "station": "Islamabad",
+    "temperature": 20.23,
+    "rainfall": 7.16,
+    "co2": 419.82,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-12",
+    "station": "Quetta",
+    "temperature": 14.53,
+    "rainfall": 1.9,
+    "co2": 421.49,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-13",
+    "station": "Karachi",
+    "temperature": 28.05,
+    "rainfall": 0,
+    "co2": 422.64,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-13",
+    "station": "Lahore",
+    "temperature": 21.82,
+    "rainfall": 0,
+    "co2": 423.98,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-13",
+    "station": "Islamabad",
+    "temperature": 18.28,
+    "rainfall": 0.64,
+    "co2": 419.72,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-13",
+    "station": "Quetta",
+    "temperature": 14.16,
+    "rainfall": 1.61,
+    "co2": 421.73,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-14",
+    "station": "Karachi",
+    "temperature": 29.13,
+    "rainfall": 6.7,
+    "co2": 422.05,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-14",
+    "station": "Lahore",
+    "temperature": 24.86,
+    "rainfall": 10.7,
+    "co2": 423.4,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-14",
+    "station": "Islamabad",
+    "temperature": 19.46,
+    "rainfall": 10.11,
+    "co2": 426.11,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-14",
+    "station": "Quetta",
+    "temperature": 16.74,
+    "rainfall": 14.62,
+    "co2": 424.43,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-15",
+    "station": "Karachi",
+    "temperature": 29.08,
+    "rainfall": 0,
+    "co2": 420.37,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-15",
+    "station": "Lahore",
+    "temperature": 24.01,
+    "rainfall": 0,
+    "co2": 421.41,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-15",
+    "station": "Islamabad",
+    "temperature": 21.11,
+    "rainfall": 0.01,
+    "co2": 423.67,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-15",
+    "station": "Quetta",
+    "temperature": 14.44,
+    "rainfall": 1.04,
+    "co2": 424.65,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-16",
+    "station": "Karachi",
+    "temperature": 28.44,
+    "rainfall": 5.74,
+    "co2": 426.03,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-16",
+    "station": "Lahore",
+    "temperature": 25.75,
+    "rainfall": 0,
+    "co2": 425.26,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-16",
+    "station": "Islamabad",
+    "temperature": 19.45,
+    "rainfall": 3.89,
+    "co2": 422.66,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-16",
+    "station": "Quetta",
+    "temperature": 17.48,
+    "rainfall": 0,
+    "co2": 423.53,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-17",
+    "station": "Karachi",
+    "temperature": 28.95,
+    "rainfall": 8.87,
+    "co2": 422.23,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-17",
+    "station": "Lahore",
+    "temperature": 25.53,
+    "rainfall": 0,
+    "co2": 424.94,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-17",
+    "station": "Islamabad",
+    "temperature": 20.74,
+    "rainfall": 0,
+    "co2": 423.47,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-17",
+    "station": "Quetta",
+    "temperature": 16.54,
+    "rainfall": 1.87,
+    "co2": 421.18,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-18",
+    "station": "Karachi",
+    "temperature": 28.17,
+    "rainfall": 0,
+    "co2": 426.06,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-18",
+    "station": "Lahore",
+    "temperature": 23.11,
+    "rainfall": 0.03,
+    "co2": 424.96,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-18",
+    "station": "Islamabad",
+    "temperature": 21.16,
+    "rainfall": 8.32,
+    "co2": 425.71,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-18",
+    "station": "Quetta",
+    "temperature": 16.09,
+    "rainfall": 0,
+    "co2": 424.36,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-19",
+    "station": "Karachi",
+    "temperature": 29.56,
+    "rainfall": 2.04,
+    "co2": 420.17,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-19",
+    "station": "Lahore",
+    "temperature": 26.1,
+    "rainfall": 7.46,
+    "co2": 419.95,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-19",
+    "station": "Islamabad",
+    "temperature": 21.54,
+    "rainfall": 0,
+    "co2": 421.73,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-19",
+    "station": "Quetta",
+    "temperature": 15.26,
+    "rainfall": 0.17,
+    "co2": 421.03,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-20",
+    "station": "Karachi",
+    "temperature": 28.03,
+    "rainfall": 8.35,
+    "co2": 423.31,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-20",
+    "station": "Lahore",
+    "temperature": 25.52,
+    "rainfall": 10.55,
+    "co2": 421.98,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-20",
+    "station": "Islamabad",
+    "temperature": 20.86,
+    "rainfall": 7.23,
+    "co2": 426.14,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-20",
+    "station": "Quetta",
+    "temperature": 17.84,
+    "rainfall": 12.29,
+    "co2": 424.76,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-21",
+    "station": "Karachi",
+    "temperature": 30.2,
+    "rainfall": 0,
+    "co2": 424.51,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-21",
+    "station": "Lahore",
+    "temperature": 25.18,
+    "rainfall": 4.33,
+    "co2": 421.7,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-21",
+    "station": "Islamabad",
+    "temperature": 20.42,
+    "rainfall": 6.5,
+    "co2": 424.43,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-21",
+    "station": "Quetta",
+    "temperature": 15.13,
+    "rainfall": 5.31,
+    "co2": 421.63,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-22",
+    "station": "Karachi",
+    "temperature": 27.96,
+    "rainfall": 6.36,
+    "co2": 422.12,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-22",
+    "station": "Lahore",
+    "temperature": 24.31,
+    "rainfall": 0,
+    "co2": 423.34,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-22",
+    "station": "Islamabad",
+    "temperature": 21.09,
+    "rainfall": 0,
+    "co2": 421.09,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-22",
+    "station": "Quetta",
+    "temperature": 16.88,
+    "rainfall": 6.43,
+    "co2": 420.68,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-23",
+    "station": "Karachi",
+    "temperature": 29.86,
+    "rainfall": 0,
+    "co2": 428.26,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-23",
+    "station": "Lahore",
+    "temperature": 24.15,
+    "rainfall": 0,
+    "co2": 423.19,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-23",
+    "station": "Islamabad",
+    "temperature": 20.19,
+    "rainfall": 8.97,
+    "co2": 426.4,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-23",
+    "station": "Quetta",
+    "temperature": 16.81,
+    "rainfall": 5.04,
+    "co2": 421.76,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-24",
+    "station": "Karachi",
+    "temperature": 29.46,
+    "rainfall": 12.59,
+    "co2": 424.61,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-24",
+    "station": "Lahore",
+    "temperature": 24.37,
+    "rainfall": 13.28,
+    "co2": 425.15,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-24",
+    "station": "Islamabad",
+    "temperature": 22.04,
+    "rainfall": 0.04,
+    "co2": 422.96,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-24",
+    "station": "Quetta",
+    "temperature": 16.5,
+    "rainfall": 6.81,
+    "co2": 422.19,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-25",
+    "station": "Karachi",
+    "temperature": 26.97,
+    "rainfall": 9.56,
+    "co2": 423.23,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-25",
+    "station": "Lahore",
+    "temperature": 26.94,
+    "rainfall": 3.18,
+    "co2": 423.23,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-25",
+    "station": "Islamabad",
+    "temperature": 22.99,
+    "rainfall": 6.33,
+    "co2": 423.43,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-25",
+    "station": "Quetta",
+    "temperature": 21.5,
+    "rainfall": 2.99,
+    "co2": 423.19,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-26",
+    "station": "Karachi",
+    "temperature": 31.92,
+    "rainfall": 0,
+    "co2": 420.79,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-26",
+    "station": "Lahore",
+    "temperature": 24.12,
+    "rainfall": 7.2,
+    "co2": 424.13,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-26",
+    "station": "Islamabad",
+    "temperature": 22.73,
+    "rainfall": 0,
+    "co2": 424.89,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-26",
+    "station": "Quetta",
+    "temperature": 19.28,
+    "rainfall": 3.42,
+    "co2": 422.94,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-27",
+    "station": "Karachi",
+    "temperature": 30.85,
+    "rainfall": 6.2,
+    "co2": 424.18,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-27",
+    "station": "Lahore",
+    "temperature": 24.74,
+    "rainfall": 2.95,
+    "co2": 420.48,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-27",
+    "station": "Islamabad",
+    "temperature": 22.8,
+    "rainfall": 7.18,
+    "co2": 422.7,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-27",
+    "station": "Quetta",
+    "temperature": 18.4,
+    "rainfall": 0,
+    "co2": 424.62,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-28",
+    "station": "Karachi",
+    "temperature": 29.69,
+    "rainfall": 4.77,
+    "co2": 425.16,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-28",
+    "station": "Lahore",
+    "temperature": 25.34,
+    "rainfall": 11.18,
+    "co2": 423.17,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-28",
+    "station": "Islamabad",
+    "temperature": 22.28,
+    "rainfall": 7.34,
+    "co2": 420.43,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-28",
+    "station": "Quetta",
+    "temperature": 18.96,
+    "rainfall": 4.37,
+    "co2": 425.0,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-29",
+    "station": "Karachi",
+    "temperature": 30.19,
+    "rainfall": 1.82,
+    "co2": 423.69,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-29",
+    "station": "Lahore",
+    "temperature": 26.38,
+    "rainfall": 0,
+    "co2": 422.56,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-29",
+    "station": "Islamabad",
+    "temperature": 23.98,
+    "rainfall": 3.44,
+    "co2": 421.21,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-29",
+    "station": "Quetta",
+    "temperature": 19.31,
+    "rainfall": 0,
+    "co2": 418.71,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-04-30",
+    "station": "Karachi",
+    "temperature": 30.66,
+    "rainfall": 5.09,
+    "co2": 423.42,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-30",
+    "station": "Lahore",
+    "temperature": 25.6,
+    "rainfall": 3.1,
+    "co2": 420.18,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-30",
+    "station": "Islamabad",
+    "temperature": 22.93,
+    "rainfall": 0,
+    "co2": 422.68,
+    "source": "weather"
+  },
+  {
+    "day": "2026-04-30",
+    "station": "Quetta",
+    "temperature": 18.98,
+    "rainfall": 0,
+    "co2": 421.93,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-01",
+    "station": "Karachi",
+    "temperature": 31.83,
+    "rainfall": 13.29,
+    "co2": 419.99,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-01",
+    "station": "Lahore",
+    "temperature": 27.29,
+    "rainfall": 0,
+    "co2": 420.31,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-01",
+    "station": "Islamabad",
+    "temperature": 24.8,
+    "rainfall": 8.01,
+    "co2": 421.39,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-01",
+    "station": "Quetta",
+    "temperature": 19.15,
+    "rainfall": 7.85,
+    "co2": 423.36,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-02",
+    "station": "Karachi",
+    "temperature": 33.8,
+    "rainfall": 7.63,
+    "co2": 417.04,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-02",
+    "station": "Lahore",
+    "temperature": 26.75,
+    "rainfall": 0,
+    "co2": 422.62,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-02",
+    "station": "Islamabad",
+    "temperature": 23.12,
+    "rainfall": 0.09,
+    "co2": 420.86,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-02",
+    "station": "Quetta",
+    "temperature": 20.74,
+    "rainfall": 7.58,
+    "co2": 421.68,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-03",
+    "station": "Karachi",
+    "temperature": 32.14,
+    "rainfall": 8.05,
+    "co2": 425.58,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-03",
+    "station": "Lahore",
+    "temperature": 26.05,
+    "rainfall": 8.68,
+    "co2": 421.83,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-03",
+    "station": "Islamabad",
+    "temperature": 24.71,
+    "rainfall": 2.85,
+    "co2": 418.51,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-03",
+    "station": "Quetta",
+    "temperature": 19.36,
+    "rainfall": 0,
+    "co2": 422.62,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-04",
+    "station": "Karachi",
+    "temperature": 46.47,
+    "rainfall": 1.59,
+    "co2": 420.1,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-04",
+    "station": "Lahore",
+    "temperature": 41.2,
+    "rainfall": 0,
+    "co2": 422.58,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-04",
+    "station": "Islamabad",
+    "temperature": 40.09,
+    "rainfall": 8.25,
+    "co2": 422.13,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-04",
+    "station": "Quetta",
+    "temperature": 36.07,
+    "rainfall": 0,
+    "co2": 424.45,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-05",
+    "station": "Karachi",
+    "temperature": 31.56,
+    "rainfall": 5.42,
+    "co2": 424.38,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-05",
+    "station": "Lahore",
+    "temperature": 26.95,
+    "rainfall": 8.81,
+    "co2": 423.08,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-05",
+    "station": "Islamabad",
+    "temperature": 26.66,
+    "rainfall": 2.17,
+    "co2": 425.64,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-05",
+    "station": "Quetta",
+    "temperature": 20.54,
+    "rainfall": 0,
+    "co2": 425.82,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-06",
+    "station": "Karachi",
+    "temperature": 30.72,
+    "rainfall": 0,
+    "co2": 424.83,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-06",
+    "station": "Lahore",
+    "temperature": 29.28,
+    "rainfall": 4.31,
+    "co2": 422.6,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-06",
+    "station": "Islamabad",
+    "temperature": 25.89,
+    "rainfall": 8.27,
+    "co2": 421.81,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-06",
+    "station": "Quetta",
+    "temperature": 20.87,
+    "rainfall": 0,
+    "co2": 422.01,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-07",
+    "station": "Karachi",
+    "temperature": 30.96,
+    "rainfall": 0,
+    "co2": 420.8,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-07",
+    "station": "Lahore",
+    "temperature": 29.68,
+    "rainfall": 0,
+    "co2": 422.05,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-07",
+    "station": "Islamabad",
+    "temperature": 22.82,
+    "rainfall": 9.19,
+    "co2": 423.15,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-07",
+    "station": "Quetta",
+    "temperature": 20.81,
+    "rainfall": 3.37,
+    "co2": 420.81,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-08",
+    "station": "Karachi",
+    "temperature": 31.27,
+    "rainfall": 9.02,
+    "co2": 423.06,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-08",
+    "station": "Lahore",
+    "temperature": 29.37,
+    "rainfall": 0,
+    "co2": 425.4,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-08",
+    "station": "Islamabad",
+    "temperature": 23.85,
+    "rainfall": 17.04,
+    "co2": 422.15,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-08",
+    "station": "Quetta",
+    "temperature": 20.48,
+    "rainfall": 7.96,
+    "co2": 421.42,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-09",
+    "station": "Karachi",
+    "temperature": 33.71,
+    "rainfall": 0.13,
+    "co2": 425.78,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-09",
+    "station": "Lahore",
+    "temperature": 29.62,
+    "rainfall": 6.97,
+    "co2": 421.75,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-09",
+    "station": "Islamabad",
+    "temperature": 24.41,
+    "rainfall": 5.8,
+    "co2": 419.13,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-09",
+    "station": "Quetta",
+    "temperature": 20.0,
+    "rainfall": 9.63,
+    "co2": 420.66,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-10",
+    "station": "Karachi",
+    "temperature": 34.42,
+    "rainfall": 0.23,
+    "co2": 423.87,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-10",
+    "station": "Lahore",
+    "temperature": 27.51,
+    "rainfall": 6.91,
+    "co2": 424.15,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-10",
+    "station": "Islamabad",
+    "temperature": 26.25,
+    "rainfall": 12.12,
+    "co2": 425.73,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-10",
+    "station": "Quetta",
+    "temperature": 21.14,
+    "rainfall": 0,
+    "co2": 425.87,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-11",
+    "station": "Karachi",
+    "temperature": 31.55,
+    "rainfall": 1.37,
+    "co2": 424.72,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-11",
+    "station": "Lahore",
+    "temperature": 29.64,
+    "rainfall": 13.56,
+    "co2": 423.24,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-11",
+    "station": "Islamabad",
+    "temperature": 23.08,
+    "rainfall": 2.35,
+    "co2": 423.6,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-11",
+    "station": "Quetta",
+    "temperature": 20.69,
+    "rainfall": 12.47,
+    "co2": 422.75,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-12",
+    "station": "Karachi",
+    "temperature": 31.61,
+    "rainfall": 6.8,
+    "co2": 420.98,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-12",
+    "station": "Lahore",
+    "temperature": 31.37,
+    "rainfall": 5.62,
+    "co2": 420.47,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-12",
+    "station": "Islamabad",
+    "temperature": 26.62,
+    "rainfall": 18.22,
+    "co2": 419.27,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-12",
+    "station": "Quetta",
+    "temperature": 22.41,
+    "rainfall": 6.9,
+    "co2": 423.63,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-13",
+    "station": "Karachi",
+    "temperature": 33.96,
+    "rainfall": 6.95,
+    "co2": 421.91,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-13",
+    "station": "Lahore",
+    "temperature": 31.24,
+    "rainfall": 0,
+    "co2": 427.22,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-13",
+    "station": "Islamabad",
+    "temperature": 27.38,
+    "rainfall": 0,
+    "co2": 423.29,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-13",
+    "station": "Quetta",
+    "temperature": 23.25,
+    "rainfall": 1.05,
+    "co2": 422.98,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-14",
+    "station": "Karachi",
+    "temperature": 33.28,
+    "rainfall": 11.0,
+    "co2": 422.11,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-14",
+    "station": "Lahore",
+    "temperature": 29.75,
+    "rainfall": 7.24,
+    "co2": 422.91,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-14",
+    "station": "Islamabad",
+    "temperature": 24.72,
+    "rainfall": 0,
+    "co2": 420.29,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-14",
+    "station": "Quetta",
+    "temperature": 20.34,
+    "rainfall": 0,
+    "co2": 421.87,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-15",
+    "station": "Karachi",
+    "temperature": 34.33,
+    "rainfall": 4.32,
+    "co2": 421.7,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-15",
+    "station": "Lahore",
+    "temperature": 28.75,
+    "rainfall": 0,
+    "co2": 420.57,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-15",
+    "station": "Islamabad",
+    "temperature": 24.49,
+    "rainfall": 8.29,
+    "co2": 420.54,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-15",
+    "station": "Quetta",
+    "temperature": 21.99,
+    "rainfall": 0.29,
+    "co2": 428.21,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-16",
+    "station": "Karachi",
+    "temperature": 32.02,
+    "rainfall": 5.16,
+    "co2": 422.71,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-16",
+    "station": "Lahore",
+    "temperature": 29.25,
+    "rainfall": 5.89,
+    "co2": 423.69,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-16",
+    "station": "Islamabad",
+    "temperature": 24.89,
+    "rainfall": 6.56,
+    "co2": 424.15,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-16",
+    "station": "Quetta",
+    "temperature": 23.75,
+    "rainfall": 0.34,
+    "co2": 426.32,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-17",
+    "station": "Karachi",
+    "temperature": 34.14,
+    "rainfall": 0,
+    "co2": 424.45,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-17",
+    "station": "Lahore",
+    "temperature": 30.28,
+    "rainfall": 0,
+    "co2": 425.27,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-17",
+    "station": "Islamabad",
+    "temperature": 25.81,
+    "rainfall": 10.1,
+    "co2": 423.23,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-17",
+    "station": "Quetta",
+    "temperature": 23.28,
+    "rainfall": 8.08,
+    "co2": 424.35,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-18",
+    "station": "Karachi",
+    "temperature": 33.33,
+    "rainfall": 9.52,
+    "co2": 423.47,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-18",
+    "station": "Lahore",
+    "temperature": 32.98,
+    "rainfall": 6.87,
+    "co2": 424.93,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-18",
+    "station": "Islamabad",
+    "temperature": 25.65,
+    "rainfall": 1.56,
+    "co2": 423.62,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-18",
+    "station": "Quetta",
+    "temperature": 21.17,
+    "rainfall": 0,
+    "co2": 423.21,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-19",
+    "station": "Karachi",
+    "temperature": 34.67,
+    "rainfall": 5.21,
+    "co2": 425.68,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-19",
+    "station": "Lahore",
+    "temperature": 30.28,
+    "rainfall": 8.09,
+    "co2": 423.16,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-19",
+    "station": "Islamabad",
+    "temperature": 26.53,
+    "rainfall": 5.54,
+    "co2": 419.31,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-19",
+    "station": "Quetta",
+    "temperature": 22.84,
+    "rainfall": 0.17,
+    "co2": 421.59,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-20",
+    "station": "Karachi",
+    "temperature": 32.68,
+    "rainfall": 1.34,
+    "co2": 419.72,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-20",
+    "station": "Lahore",
+    "temperature": 31.99,
+    "rainfall": 2.56,
+    "co2": 420.11,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-20",
+    "station": "Islamabad",
+    "temperature": 26.14,
+    "rainfall": 8.53,
+    "co2": 422.29,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-20",
+    "station": "Quetta",
+    "temperature": 22.61,
+    "rainfall": 1.78,
+    "co2": 423.22,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-21",
+    "station": "Karachi",
+    "temperature": 33.09,
+    "rainfall": 3.73,
+    "co2": 422.38,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-21",
+    "station": "Lahore",
+    "temperature": 34.67,
+    "rainfall": 2.72,
+    "co2": 422.59,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-21",
+    "station": "Islamabad",
+    "temperature": 28.31,
+    "rainfall": 3.06,
+    "co2": 424.01,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-21",
+    "station": "Quetta",
+    "temperature": 22.08,
+    "rainfall": 13.33,
+    "co2": 422.24,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-22",
+    "station": "Karachi",
+    "temperature": 35.75,
+    "rainfall": 10.79,
+    "co2": 422.92,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-22",
+    "station": "Lahore",
+    "temperature": 31.3,
+    "rainfall": 7.52,
+    "co2": 424.89,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-22",
+    "station": "Islamabad",
+    "temperature": 25.99,
+    "rainfall": 5.09,
+    "co2": 421.63,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-22",
+    "station": "Quetta",
+    "temperature": 22.41,
+    "rainfall": 0.11,
+    "co2": 425.96,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-23",
+    "station": "Karachi",
+    "temperature": 37.38,
+    "rainfall": 19.63,
+    "co2": 423.44,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-23",
+    "station": "Lahore",
+    "temperature": 30.46,
+    "rainfall": 0,
+    "co2": 426.76,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-23",
+    "station": "Islamabad",
+    "temperature": 25.62,
+    "rainfall": 2.1,
+    "co2": 422.42,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-23",
+    "station": "Quetta",
+    "temperature": 25.57,
+    "rainfall": 0,
+    "co2": 425.75,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-24",
+    "station": "Karachi",
+    "temperature": 37.2,
+    "rainfall": 3.0,
+    "co2": 424.51,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-24",
+    "station": "Lahore",
+    "temperature": 29.78,
+    "rainfall": 3.47,
+    "co2": 423.14,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-24",
+    "station": "Islamabad",
+    "temperature": 24.53,
+    "rainfall": 6.49,
+    "co2": 424.29,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-24",
+    "station": "Quetta",
+    "temperature": 21.59,
+    "rainfall": 0,
+    "co2": 422.08,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-25",
+    "station": "Karachi",
+    "temperature": 35.14,
+    "rainfall": 2.16,
+    "co2": 421.68,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-25",
+    "station": "Lahore",
+    "temperature": 30.57,
+    "rainfall": 5.84,
+    "co2": 422.65,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-25",
+    "station": "Islamabad",
+    "temperature": 27.65,
+    "rainfall": 2.62,
+    "co2": 424.51,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-25",
+    "station": "Quetta",
+    "temperature": 23.59,
+    "rainfall": 9.17,
+    "co2": 423.81,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-26",
+    "station": "Karachi",
+    "temperature": 36.98,
+    "rainfall": 11.48,
+    "co2": 420.7,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-26",
+    "station": "Lahore",
+    "temperature": 33.02,
+    "rainfall": 14.7,
+    "co2": 421.68,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-26",
+    "station": "Islamabad",
+    "temperature": 27.88,
+    "rainfall": 1.86,
+    "co2": 424.51,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-26",
+    "station": "Quetta",
+    "temperature": 24.54,
+    "rainfall": 0,
+    "co2": 426.25,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-27",
+    "station": "Karachi",
+    "temperature": 35.02,
+    "rainfall": 3.17,
+    "co2": 425.7,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-27",
+    "station": "Lahore",
+    "temperature": 34.4,
+    "rainfall": 0.92,
+    "co2": 425.21,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-27",
+    "station": "Islamabad",
+    "temperature": 28.32,
+    "rainfall": 0,
+    "co2": 421.74,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-27",
+    "station": "Quetta",
+    "temperature": 22.61,
+    "rainfall": 0.98,
+    "co2": 422.82,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-28",
+    "station": "Karachi",
+    "temperature": 36.21,
+    "rainfall": 11.67,
+    "co2": 424.52,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-28",
+    "station": "Lahore",
+    "temperature": 35.36,
+    "rainfall": 2.54,
+    "co2": 425.25,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-28",
+    "station": "Islamabad",
+    "temperature": 28.67,
+    "rainfall": 13.04,
+    "co2": 422.92,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-28",
+    "station": "Quetta",
+    "temperature": 25.19,
+    "rainfall": 13.77,
+    "co2": 422.23,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-29",
+    "station": "Karachi",
+    "temperature": 36.2,
+    "rainfall": 7.03,
+    "co2": 422.83,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-29",
+    "station": "Lahore",
+    "temperature": 31.24,
+    "rainfall": 15.0,
+    "co2": 423.24,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-29",
+    "station": "Islamabad",
+    "temperature": 30.38,
+    "rainfall": 0.95,
+    "co2": 423.29,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-29",
+    "station": "Quetta",
+    "temperature": 25.25,
+    "rainfall": 2.76,
+    "co2": 421.9,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-30",
+    "station": "Karachi",
+    "temperature": 35.54,
+    "rainfall": 5.64,
+    "co2": 422.39,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-30",
+    "station": "Lahore",
+    "temperature": 32.51,
+    "rainfall": 0,
+    "co2": 422.61,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-30",
+    "station": "Islamabad",
+    "temperature": 28.19,
+    "rainfall": 0.92,
+    "co2": 421.74,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-30",
+    "station": "Quetta",
+    "temperature": 23.34,
+    "rainfall": 4.42,
+    "co2": 426.7,
+    "source": "weather"
+  },
+  {
+    "day": "2026-05-31",
+    "station": "Karachi",
+    "temperature": 34.82,
+    "rainfall": 2.34,
+    "co2": 425.7,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-31",
+    "station": "Lahore",
+    "temperature": 32.9,
+    "rainfall": 3.44,
+    "co2": 422.85,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-31",
+    "station": "Islamabad",
+    "temperature": 28.52,
+    "rainfall": 3.39,
+    "co2": 419.38,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-05-31",
+    "station": "Quetta",
+    "temperature": 23.64,
+    "rainfall": 0,
+    "co2": 426.33,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-01",
+    "station": "Karachi",
+    "temperature": 37.58,
+    "rainfall": 0,
+    "co2": 425.38,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-01",
+    "station": "Lahore",
+    "temperature": 35.53,
+    "rainfall": 0.26,
+    "co2": 426.37,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-01",
+    "station": "Islamabad",
+    "temperature": 29.03,
+    "rainfall": 2.58,
+    "co2": 421.56,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-01",
+    "station": "Quetta",
+    "temperature": 23.92,
+    "rainfall": 1.63,
+    "co2": 419.14,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-02",
+    "station": "Karachi",
+    "temperature": 37.31,
+    "rainfall": 2.07,
+    "co2": 424.72,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-02",
+    "station": "Lahore",
+    "temperature": 32.17,
+    "rainfall": 21.99,
+    "co2": 420.49,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-02",
+    "station": "Islamabad",
+    "temperature": 27.55,
+    "rainfall": 8.23,
+    "co2": 428.52,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-02",
+    "station": "Quetta",
+    "temperature": 23.48,
+    "rainfall": 14.98,
+    "co2": 421.97,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-03",
+    "station": "Karachi",
+    "temperature": 38.29,
+    "rainfall": 4.45,
+    "co2": 428.28,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-03",
+    "station": "Lahore",
+    "temperature": 34.88,
+    "rainfall": 0.11,
+    "co2": 429.7,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-03",
+    "station": "Islamabad",
+    "temperature": 27.39,
+    "rainfall": 2.12,
+    "co2": 427.44,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-03",
+    "station": "Quetta",
+    "temperature": 23.86,
+    "rainfall": 0.15,
+    "co2": 424.09,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-04",
+    "station": "Karachi",
+    "temperature": 37.35,
+    "rainfall": 6.32,
+    "co2": 422.36,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-04",
+    "station": "Lahore",
+    "temperature": 33.04,
+    "rainfall": 7.82,
+    "co2": 426.86,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-04",
+    "station": "Islamabad",
+    "temperature": 29.2,
+    "rainfall": 0,
+    "co2": 423.91,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-04",
+    "station": "Quetta",
+    "temperature": 24.06,
+    "rainfall": 11.91,
+    "co2": 420.5,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-05",
+    "station": "Karachi",
+    "temperature": 37.53,
+    "rainfall": 0,
+    "co2": 426.42,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-05",
+    "station": "Lahore",
+    "temperature": 33.78,
+    "rainfall": 5.32,
+    "co2": 424.88,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-05",
+    "station": "Islamabad",
+    "temperature": 28.45,
+    "rainfall": 8.05,
+    "co2": 423.78,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-05",
+    "station": "Quetta",
+    "temperature": 25.73,
+    "rainfall": 4.35,
+    "co2": 418.91,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-06",
+    "station": "Karachi",
+    "temperature": 36.28,
+    "rainfall": 13.1,
+    "co2": 426.81,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-06",
+    "station": "Lahore",
+    "temperature": 33.02,
+    "rainfall": 3.24,
+    "co2": 423.23,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-06",
+    "station": "Islamabad",
+    "temperature": 29.65,
+    "rainfall": 7.47,
+    "co2": 421.94,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-06",
+    "station": "Quetta",
+    "temperature": 25.69,
+    "rainfall": 11.4,
+    "co2": 421.99,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-07",
+    "station": "Karachi",
+    "temperature": 36.7,
+    "rainfall": 6.78,
+    "co2": 425.37,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-07",
+    "station": "Lahore",
+    "temperature": 32.42,
+    "rainfall": 0.83,
+    "co2": 423.0,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-07",
+    "station": "Islamabad",
+    "temperature": 29.39,
+    "rainfall": 6.57,
+    "co2": 423.89,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-07",
+    "station": "Quetta",
+    "temperature": 23.29,
+    "rainfall": 0,
+    "co2": 425.2,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-08",
+    "station": "Karachi",
+    "temperature": 35.48,
+    "rainfall": 5.36,
+    "co2": 423.23,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-08",
+    "station": "Lahore",
+    "temperature": 32.22,
+    "rainfall": 4.16,
+    "co2": 427.3,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-08",
+    "station": "Islamabad",
+    "temperature": 29.29,
+    "rainfall": 2.23,
+    "co2": 421.0,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-08",
+    "station": "Quetta",
+    "temperature": 25.56,
+    "rainfall": 10.82,
+    "co2": 425.16,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-09",
+    "station": "Karachi",
+    "temperature": 38.36,
+    "rainfall": 6.86,
+    "co2": 421.37,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-09",
+    "station": "Lahore",
+    "temperature": 32.9,
+    "rainfall": 7.15,
+    "co2": 425.42,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-09",
+    "station": "Islamabad",
+    "temperature": 28.36,
+    "rainfall": 3.62,
+    "co2": 424.71,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-09",
+    "station": "Quetta",
+    "temperature": 26.48,
+    "rainfall": 10.03,
+    "co2": 425.27,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-10",
+    "station": "Karachi",
+    "temperature": 37.43,
+    "rainfall": 0,
+    "co2": 421.8,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-10",
+    "station": "Lahore",
+    "temperature": 32.85,
+    "rainfall": 10.25,
+    "co2": 424.79,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-10",
+    "station": "Islamabad",
+    "temperature": 29.63,
+    "rainfall": 0,
+    "co2": 421.08,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-10",
+    "station": "Quetta",
+    "temperature": 26.3,
+    "rainfall": 3.79,
+    "co2": 421.37,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-11",
+    "station": "Karachi",
+    "temperature": 38.01,
+    "rainfall": 5.55,
+    "co2": 429.93,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-11",
+    "station": "Lahore",
+    "temperature": 34.45,
+    "rainfall": 6.08,
+    "co2": 423.72,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-11",
+    "station": "Islamabad",
+    "temperature": 29.23,
+    "rainfall": 3.38,
+    "co2": 421.15,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-11",
+    "station": "Quetta",
+    "temperature": 26.06,
+    "rainfall": 5.65,
+    "co2": 418.52,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-12",
+    "station": "Karachi",
+    "temperature": 36.17,
+    "rainfall": 0,
+    "co2": 426.01,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-12",
+    "station": "Lahore",
+    "temperature": 32.88,
+    "rainfall": 12.92,
+    "co2": 420.87,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-12",
+    "station": "Islamabad",
+    "temperature": 27.64,
+    "rainfall": 10.4,
+    "co2": 422.74,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-12",
+    "station": "Quetta",
+    "temperature": 23.66,
+    "rainfall": 0.84,
+    "co2": 422.53,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-13",
+    "station": "Karachi",
+    "temperature": 37.55,
+    "rainfall": 10.71,
+    "co2": 420.9,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-13",
+    "station": "Lahore",
+    "temperature": 32.55,
+    "rainfall": 4.09,
+    "co2": 424.24,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-13",
+    "station": "Islamabad",
+    "temperature": 29.9,
+    "rainfall": 4.72,
+    "co2": 422.92,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-13",
+    "station": "Quetta",
+    "temperature": 23.57,
+    "rainfall": 0,
+    "co2": 423.33,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-14",
+    "station": "Karachi",
+    "temperature": 36.88,
+    "rainfall": 9.53,
+    "co2": 423.34,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-14",
+    "station": "Lahore",
+    "temperature": 35.65,
+    "rainfall": 3.54,
+    "co2": 423.13,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-14",
+    "station": "Islamabad",
+    "temperature": 29.32,
+    "rainfall": 0,
+    "co2": 424.52,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-14",
+    "station": "Quetta",
+    "temperature": 22.39,
+    "rainfall": 8.06,
+    "co2": 424.23,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-15",
+    "station": "Karachi",
+    "temperature": 37.07,
+    "rainfall": 4.93,
+    "co2": 421.58,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-15",
+    "station": "Lahore",
+    "temperature": 31.74,
+    "rainfall": 13.4,
+    "co2": 425.11,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-15",
+    "station": "Islamabad",
+    "temperature": 28.1,
+    "rainfall": 6.53,
+    "co2": 424.94,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-15",
+    "station": "Quetta",
+    "temperature": 27.16,
+    "rainfall": 10.66,
+    "co2": 424.95,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-16",
+    "station": "Karachi",
+    "temperature": 36.22,
+    "rainfall": 14.7,
+    "co2": 423.95,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-16",
+    "station": "Lahore",
+    "temperature": 31.71,
+    "rainfall": 0,
+    "co2": 422.43,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-16",
+    "station": "Islamabad",
+    "temperature": 28.32,
+    "rainfall": 8.59,
+    "co2": 425.98,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-16",
+    "station": "Quetta",
+    "temperature": 26.14,
+    "rainfall": 4.92,
+    "co2": 425.81,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-17",
+    "station": "Karachi",
+    "temperature": 39.4,
+    "rainfall": 9.46,
+    "co2": 427.38,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-17",
+    "station": "Lahore",
+    "temperature": 30.88,
+    "rainfall": 0,
+    "co2": 422.67,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-17",
+    "station": "Islamabad",
+    "temperature": 25.48,
+    "rainfall": 4.44,
+    "co2": 426.96,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-17",
+    "station": "Quetta",
+    "temperature": 24.05,
+    "rainfall": 5.17,
+    "co2": 422.47,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-18",
+    "station": "Karachi",
+    "temperature": 36.03,
+    "rainfall": 5.71,
+    "co2": 421.81,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-18",
+    "station": "Lahore",
+    "temperature": 34.03,
+    "rainfall": 0,
+    "co2": 424.84,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-18",
+    "station": "Islamabad",
+    "temperature": 28.03,
+    "rainfall": 12.93,
+    "co2": 425.72,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-18",
+    "station": "Quetta",
+    "temperature": 22.12,
+    "rainfall": 0,
+    "co2": 422.2,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-19",
+    "station": "Karachi",
+    "temperature": 35.93,
+    "rainfall": 2.87,
+    "co2": 424.29,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-19",
+    "station": "Lahore",
+    "temperature": 33.34,
+    "rainfall": 0,
+    "co2": 420.62,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-19",
+    "station": "Islamabad",
+    "temperature": 28.84,
+    "rainfall": 1.83,
+    "co2": 424.02,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-19",
+    "station": "Quetta",
+    "temperature": 23.77,
+    "rainfall": 2.96,
+    "co2": 427.2,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-20",
+    "station": "Karachi",
+    "temperature": 34.5,
+    "rainfall": 0,
+    "co2": 425.53,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-20",
+    "station": "Lahore",
+    "temperature": 34.32,
+    "rainfall": 2.77,
+    "co2": 421.72,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-20",
+    "station": "Islamabad",
+    "temperature": 26.04,
+    "rainfall": 5.56,
+    "co2": 421.75,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-20",
+    "station": "Quetta",
+    "temperature": 27.05,
+    "rainfall": 18.05,
+    "co2": 424.7,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-21",
+    "station": "Karachi",
+    "temperature": 36.93,
+    "rainfall": 3.29,
+    "co2": 426.56,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-21",
+    "station": "Lahore",
+    "temperature": 32.34,
+    "rainfall": 4.38,
+    "co2": 427.0,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-21",
+    "station": "Islamabad",
+    "temperature": 29.1,
+    "rainfall": 16.79,
+    "co2": 421.0,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-21",
+    "station": "Quetta",
+    "temperature": 23.68,
+    "rainfall": 0,
+    "co2": 425.96,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-22",
+    "station": "Karachi",
+    "temperature": 35.65,
+    "rainfall": 7.61,
+    "co2": 421.96,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-22",
+    "station": "Lahore",
+    "temperature": 32.12,
+    "rainfall": 17.78,
+    "co2": 427.58,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-22",
+    "station": "Islamabad",
+    "temperature": 25.98,
+    "rainfall": 6.19,
+    "co2": 425.95,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-22",
+    "station": "Quetta",
+    "temperature": 23.65,
+    "rainfall": 0,
+    "co2": 425.62,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-23",
+    "station": "Karachi",
+    "temperature": 36.24,
+    "rainfall": 7.32,
+    "co2": 424.01,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-23",
+    "station": "Lahore",
+    "temperature": 34.92,
+    "rainfall": 0,
+    "co2": 423.33,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-23",
+    "station": "Islamabad",
+    "temperature": 28.74,
+    "rainfall": 8.39,
+    "co2": 421.57,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-23",
+    "station": "Quetta",
+    "temperature": 25.68,
+    "rainfall": 0,
+    "co2": 424.34,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-24",
+    "station": "Karachi",
+    "temperature": 35.63,
+    "rainfall": 0,
+    "co2": 426.62,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-24",
+    "station": "Lahore",
+    "temperature": 29.19,
+    "rainfall": 0,
+    "co2": 422.54,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-24",
+    "station": "Islamabad",
+    "temperature": 29.05,
+    "rainfall": 13.3,
+    "co2": 425.9,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-24",
+    "station": "Quetta",
+    "temperature": 25.68,
+    "rainfall": 0,
+    "co2": 424.68,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-25",
+    "station": "Karachi",
+    "temperature": 34.21,
+    "rainfall": 1.75,
+    "co2": 424.86,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-25",
+    "station": "Lahore",
+    "temperature": 31.99,
+    "rainfall": 12.25,
+    "co2": 420.42,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-25",
+    "station": "Islamabad",
+    "temperature": 26.87,
+    "rainfall": 0,
+    "co2": 421.1,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-25",
+    "station": "Quetta",
+    "temperature": 25.08,
+    "rainfall": 5.09,
+    "co2": 427.49,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-26",
+    "station": "Karachi",
+    "temperature": 37.16,
+    "rainfall": 4.41,
+    "co2": 422.46,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-26",
+    "station": "Lahore",
+    "temperature": 32.93,
+    "rainfall": 0,
+    "co2": 422.0,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-26",
+    "station": "Islamabad",
+    "temperature": 26.36,
+    "rainfall": 4.73,
+    "co2": 426.93,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-26",
+    "station": "Quetta",
+    "temperature": 23.8,
+    "rainfall": 11.35,
+    "co2": 424.58,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-27",
+    "station": "Karachi",
+    "temperature": 35.09,
+    "rainfall": 20.33,
+    "co2": 428.07,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-27",
+    "station": "Lahore",
+    "temperature": 31.84,
+    "rainfall": 0,
+    "co2": 421.21,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-27",
+    "station": "Islamabad",
+    "temperature": 28.08,
+    "rainfall": 2.47,
+    "co2": 425.36,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-27",
+    "station": "Quetta",
+    "temperature": 23.99,
+    "rainfall": 6.62,
+    "co2": 426.71,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-28",
+    "station": "Karachi",
+    "temperature": 35.83,
+    "rainfall": 0,
+    "co2": 422.91,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-28",
+    "station": "Lahore",
+    "temperature": 32.15,
+    "rainfall": 0,
+    "co2": 425.89,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-28",
+    "station": "Islamabad",
+    "temperature": 28.31,
+    "rainfall": 3.74,
+    "co2": 422.89,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-28",
+    "station": "Quetta",
+    "temperature": 21.32,
+    "rainfall": 0,
+    "co2": 421.2,
+    "source": "sensor"
+  },
+  {
+    "day": "2026-06-29",
+    "station": "Karachi",
+    "temperature": 35.34,
+    "rainfall": 1.35,
+    "co2": 422.63,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-29",
+    "station": "Lahore",
+    "temperature": 32.35,
+    "rainfall": 4.78,
+    "co2": 424.57,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-29",
+    "station": "Islamabad",
+    "temperature": 27.97,
+    "rainfall": 10.22,
+    "co2": 421.27,
+    "source": "weather"
+  },
+  {
+    "day": "2026-06-29",
+    "station": "Quetta",
+    "temperature": 24.15,
+    "rainfall": 0,
+    "co2": 422.89,
+    "source": "weather"
+  }
+]
