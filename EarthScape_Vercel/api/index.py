@@ -1,39 +1,3 @@
-"""EarthScape hosted edition: request-scoped Python API for Vercel."""
-import os,sys,json,secrets,hashlib,hmac,time,csv,io,math,base64
-from pathlib import Path
-from datetime import datetime,timezone
-from http.server import BaseHTTPRequestHandler
-from urllib.parse import urlparse,parse_qs,quote
-from http.cookies import SimpleCookie
-sys.path.insert(0,str(Path(__file__).resolve().parents[1]))
-from lib.database import Database,DatabaseError
-from lib.analytics import validate,analyze
-from cryptography.fernet import Fernet
-from PIL import Image,UnidentifiedImageError
-START=time.time()
-def now():return datetime.now(timezone.utc).isoformat()
-def pw_hash(p,s):return hashlib.pbkdf2_hmac('sha256',p.encode(),s.encode(),310000).hex()
-def query(**kw):return '&'.join(quote(k,safe='')+'='+quote(str(v),safe='') for k,v in kw.items())
-def cipher():
- key=os.environ.get('EARTHSCAPE_ENCRYPTION_KEY','')
- try:return Fernet(key.encode())
- except (ValueError,TypeError):raise DatabaseError('Set a valid EARTHSCAPE_ENCRYPTION_KEY in Vercel.') from None
-def audit(db,actor,action):db.request('es_audit','POST',{'created':now(),'actor':actor,'action':action})
-def bootstrap(db):
- # Insert missing demo accounts only. Deployment never resets existing passwords.
- if db.request('es_users?select=name&limit=1'):return
- users=[]
- for name in ['admin','analyst','viewer']:
-  password=os.environ.get('EARTHSCAPE_'+name.upper()+'_PASSWORD','')
-  if len(password)<12:raise DatabaseError('Set all three EARTHSCAPE account password variables to at least 12 characters, then redeploy.')
-  salt=secrets.token_hex(16);users.append({'name':name,'salt':salt,'hash':pw_hash(password,salt),'role':name})
- db.request('es_users?on_conflict=name','POST',users,'resolution=ignore-duplicates')
-def session(db,headers):
- try:c=SimpleCookie();c.load(headers.get('Cookie',''));token=c['sid'].value
- except (KeyError,ValueError):return None
- hashed=hashlib.sha256(token.encode()).hexdigest()
- rows=db.request('es_sessions?'+query(token_hash='eq.'+hashed,expires='gt.'+str(time.time()),select='name,csrf,token_hash',limit=1))
- if not rows:return None
  u=rows[0];roles=db.request('es_users?'+query(name='eq.'+u['name'],select='role',limit=1))
  if not roles:return None
  return dict(u,role=roles[0]['role'])
