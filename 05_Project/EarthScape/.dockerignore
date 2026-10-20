@@ -1,0 +1,8 @@
+portable
+runtime
+cluster-runtime
+docs
+backups
+original-forms
+__pycache__
+*.zip

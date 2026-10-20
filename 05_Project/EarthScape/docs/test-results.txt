@@ -1,0 +1,23 @@
+test_alert (test_project.ProjectTests.test_alert) ... ok
+test_backup (test_project.ProjectTests.test_backup) ... ok
+test_duplicates (test_project.ProjectTests.test_duplicates) ... ok
+test_empty_station (test_project.ProjectTests.test_empty_station) ... ok
+test_invalid_data (test_project.ProjectTests.test_invalid_data) ... ok
+test_mapreduce (test_project.ProjectTests.test_mapreduce) ... ok
+test_missing (test_project.ProjectTests.test_missing) ... ok
+test_models (test_project.ProjectTests.test_models) ... ok
+test_partition_encryption (test_project.ProjectTests.test_partition_encryption) ... ok
+test_password (test_project.ProjectTests.test_password) ... ok
+test_seed (test_project.ProjectTests.test_seed) ... ok
+test_backup_unique_names (test_stream_processing.StreamProcessingTests.test_backup_unique_names) ... ok
+test_finite_measurement_required (test_stream_processing.StreamProcessingTests.test_finite_measurement_required) ... ok
+test_hdfs_outbox_idempotency (test_stream_processing.StreamProcessingTests.test_hdfs_outbox_idempotency) ... ok
+test_local_processing_worker (test_stream_processing.StreamProcessingTests.test_local_processing_worker) ... ok
+test_multiple_sensor_readings_same_station (test_stream_processing.StreamProcessingTests.test_multiple_sensor_readings_same_station) ... ok
+test_non_object_record_rejected (test_stream_processing.StreamProcessingTests.test_non_object_record_rejected) ... ok
+test_timezone_normalization (test_stream_processing.StreamProcessingTests.test_timezone_normalization) ... ok
+
+----------------------------------------------------------------------
+Ran 18 tests in 0.413s
+
+OK

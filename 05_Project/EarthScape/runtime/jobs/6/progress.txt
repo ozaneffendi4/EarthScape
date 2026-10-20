@@ -1,0 +1,1 @@
+C:\Users\Ozan\Desktop\EarthScape\portable\windows\python\python.exe C:\Users\Ozan\Desktop\EarthScape\hadoop\reducer.py

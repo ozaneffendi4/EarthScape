@@ -1,0 +1,8 @@
+EARTHSCAPE COMPLETE PACKAGE
+
+Read README.md or 01_Documentation/Setup_and_Demo_Guide.pdf.
+
+WINDOWS: Open 05_Project/EarthScape and double-click START_EARTHSCAPE.bat.
+Login: admin / EarthDemo!2026
+
+Complete genuine batch/group/student details before submission.

@@ -1,0 +1,10 @@
+PASS missing CSRF rejected
+PASS administrator setting update
+PASS viewer blocked: settings
+PASS viewer blocked: backup
+PASS viewer blocked: ingest
+PASS viewer blocked: ack
+PASS viewer analytics allowed
+PASS viewer creates own support ticket
+PASS encrypted backup API
+PASS logout invalidates session

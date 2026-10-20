@@ -1,0 +1,15 @@
+PASS overview renders metrics
+PASS forecast visible
+PASS observations displayed
+PASS CSV export downloaded
+PASS real Hadoop result shown
+PASS duplicate import handled
+PASS satellite image archived
+PASS stream threshold alert created
+PASS ticket resolved
+PASS backup created
+PASS user account saved
+PASS mobile layout fits viewport
+PASS viewer administrator menu hidden
+PASS viewer cannot ingest
+PASS no browser JavaScript errors

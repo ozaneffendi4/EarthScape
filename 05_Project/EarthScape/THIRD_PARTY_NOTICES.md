@@ -1,0 +1,4 @@
+# Third-party software
+The Windows distribution bundles the official Python 3.12.10 embedded runtime and Windows wheels for NumPy 2.2.6, SciPy 1.15.3, scikit-learn 1.7.2, cryptography 46.0.3, Pillow 11.3.0, CFFI, pycparser, joblib, cloudpickle and threadpoolctl. Python's license is included in its runtime directory. Package licenses and notices are retained in the corresponding .dist-info directories under portable/windows/python/Lib/site-packages. These packages retain their respective copyright and license terms.
+
+Hadoop 3.4.1 is downloaded from the Apache archive during the optional full-stack Docker build; it is licensed under Apache License 2.0, with its upstream LICENSE and NOTICE preserved in the installation. The application source is provided for the EarthScape educational project.

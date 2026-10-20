@@ -1,0 +1,7 @@
+PACKAGE REVIEW
+18 unit tests: passed on Linux.
+10 HTTP integration checks: passed against the running application on Linux.
+15-slide PowerPoint: package and layout checks passed.
+Windows launcher/runtime: included, not executed on Windows during this review.
+Docker Desktop: not available for execution in this review.
+Screenshots, video and prior Hadoop/browser evidence: retained from supplied archive.

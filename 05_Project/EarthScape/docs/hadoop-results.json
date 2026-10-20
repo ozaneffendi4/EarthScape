@@ -1,0 +1,7 @@
+{
+  "id": 4,
+  "created": "2026-09-30T22:49:04.254032+00:00",
+  "status": "Completed",
+  "output": "{\"engine\": \"Hadoop HDFS + YARN MapReduce\", \"groups\": 24, \"summary\": \"Islamabad|2026-02\\t25.2354\\t28\\nIslamabad|2026-04\\t20.5707\\t30\\nIslamabad|2026-06\\t28.2517\\t29\\nKarachi|2026-01\\t32.0132\\t31\\nKarachi|2026-03\\t28.9861\\t31\\nKarachi|2026-05\\t34.2510\\t31\\nLahore|2026-01\\t27.6606\\t31\\nLahore|2026-03\\t24.3035\\t31\\nLahore|2026-05\\t30.8206\\t31\\nQuetta|2026-02\\t21.1164\\t28\\nQuetta|2026-04\\t16.5497\\t30\\nQuetta|2026-06\\t24.5300\\t29\\nIslamabad|2026-01\\t24.1894\\t31\\nIslamabad|2026-03\\t20.7268\\t31\\nIslamabad|2026-05\\t26.5152\\t31\\nKarachi|2026-02\\t33.5732\\t28\\nKarachi|2026-04\\t28.4850\\t30\\nKarachi|2026-06\\t36.6259\\t29\\nLahore|2026-02\\t29.7507\\t28\\nLahore|2026-04\\t24.0427\\t30\\nLahore|2026-06\\t32.9031\\t29\\nQuetta|2026-01\\t19.6735\\t31\\nQuetta|2026-03\\t16.8274\\t31\\nQuetta|2026-05\\t22.6226\\t31\\n\", \"input_records\": 720}",
+  "error": ""
+}
