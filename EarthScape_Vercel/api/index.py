@@ -13,8 +13,8 @@ import json,os,urllib.request,urllib.error
 class DatabaseError(Exception):pass
 class Database:
  def __init__(self):
-  self.url=os.environ.get('SUPABASE_URL','').rstrip('/')
-  self.key=os.environ.get('SUPABASE_SERVICE_ROLE_KEY','')
+  self.url=os.environ.get('SUPABASE_URL','').strip().rstrip('/')
+  self.key=os.environ.get('SUPABASE_SERVICE_ROLE_KEY','').strip()
   if not self.url.startswith('https://') or not self.key:raise DatabaseError('Set SUPABASE_URL and SUPABASE_SERVICE_ROLE_KEY in Vercel, then redeploy.')
  def request(self,path,method='GET',data=None,prefer=None):
   headers={'apikey':self.key,'Authorization':'Bearer '+self.key,'Content-Type':'application/json','Accept':'application/json'}
@@ -23,10 +23,22 @@ class Database:
   try:
    with urllib.request.urlopen(req,timeout=20) as r:
     b=r.read();return json.loads(b) if b else None
+  except urllib.error.HTTPError as e:
+   # Expose only HTTP status, machine-readable error code and endpoint name.
+   # Never expose API keys, request bodies, URL filters or raw database messages.
+   try:detail=json.loads(e.read())
+   except (ValueError,TypeError):detail={}
+   code=str(detail.get('code','UNKNOWN')) if isinstance(detail,dict) else 'UNKNOWN'
+   if not code.isalnum() or len(code)>30:code='UNKNOWN'
+   endpoint=path.split('?')[0]
+   if not all(ch.isalnum() or ch in '_/' for ch in endpoint):endpoint='database'
+   hints={401:'Supabase rejected the server API key. Check the key belongs to this project and is the legacy service_role key.',403:'Supabase denied access. Check service_role database permissions and Data API access.',404:'Supabase could not find the table or function in the Data API schema cache.',400:'Supabase rejected the database operation. The error code identifies the cause.'}
+   message=f'Supabase HTTP {e.code} ({code}) at {endpoint}. '+hints.get(e.code,'Check the Supabase API logs for this request.')
+   print(message)
+   raise DatabaseError(message) from None
   except (urllib.error.URLError,TimeoutError) as e:
-   # Do not expose URLs, SQL errors or credentials in API responses.
-   print('Supabase request failed:',type(e).__name__)
-   raise DatabaseError('Database request failed. Check Supabase project status, SQL setup and server environment variables.') from None
+   print('Supabase network failure:',type(e).__name__)
+   raise DatabaseError('Supabase network connection failed or timed out. Check the project is active and SUPABASE_URL is correct.') from None
  def rpc(self,name,args=None):return self.request('rpc/'+name,'POST',args or {})
 
 """Validation and real scikit-learn analytics retained from EarthScape."""
